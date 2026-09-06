@@ -1,0 +1,1772 @@
+{
+  "schema_version": "1.0",
+  "icon_legend": {
+    "C": "brązowa",
+    "G": "niebieska",
+    "W": "zielona",
+    "T": "czarna"
+  },
+  "cards": [
+    {
+      "card_number": 1,
+      "title": "ISR",
+      "icons": "CTGW",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Wykonując operację przeczyszczania koalicja może aktywować kolejne 3 bojówki na dowolnie wybranym polu.",
+          "en": "Each Coalition Sweep Op, Coalition may Activate another 3 Guerrillas in any 1 space.",
+          "action_name": "Overhead intel"
+        },
+        {
+          "pl": "Od tej pory nalot nie może towarzyszyć operacji przeczyszczania.",
+          "en": "Air Strike may not accompany Sweep.",
+          "action_name": "Competition for targeting assets"
+        }
+      ],
+      "fluff": {
+        "en": "The Coalition had technological superiority over the insurgents, especially in the air. Reconnaissance and surveillance was carried out by assets ranging from a 4-pound airplane tossed in the air by a soldier to satellites; but those assets were not universally available, nor universally effective.",
+        "pl": "Koalicja miała przewagę technologiczną nad powstańcami, zwłaszcza w powietrzu. Rozpoznanie i obserwację prowadzono przy użyciu środków od ważącego cztery funty samolociku wyrzucanego w górę przez żołnierza aż po satelity; jednak środki te nie były ani powszechnie dostępne, ani zawsze skuteczne."
+      }
+    },
+    {
+      "card_number": 2,
+      "title": "Predators",
+      "icons": "CTGW",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Na 1 polu objętym nalotem 1 z celów może znajdować się w ukryciu. Efekt takiego nalotu nie działa na tor Islamabadu.",
+          "en": "In 1 space per Air Strike, 1 target piece may be Under-ground and ignored for Islamabad.",
+          "action_name": "Sanctuary denied"
+        },
+        {
+          "pl": "Za każde pole objęte nalotem dodaj 1 do zasobów Talibów.",
+          "en": "Each Air Strike space adds +1 Taliban Resource.",
+          "action_name": "Collateral damage"
+        }
+      ],
+      "fluff": {
+        "en": "The Predator Unmanned Aerial Vehicle (UAV) was used by the Coalition in Afghanistan from the very beginning of hostilities in 2001. It could spend up to 24 hours in the air, flying at altitudes of up to 26,000 feet. Some models were unarmed and carried only TV cameras, radar and a laser designator; others also carried Hellfire guided missiles. In either case they were controlled by pilots sitting over 7,000 miles away, watching on screens in trailers at Air Force bases across the United States.",
+        "pl": "Bezzałogowy statek powietrzny (UAV) Predator był używany przez Koalicję w Afganistanie od samego początku działań wojennych w 2001 roku. Mógł pozostawać w powietrzu do 24 godzin, latając na wysokości do 26 000 stóp. Niektóre wersje były nieuzbrojone i przenosiły jedynie kamery telewizyjne, radar oraz laserowy wskaźnik celu; inne niosły także kierowane pociski Hellfire. W obu przypadkach sterowali nimi piloci oddaleni o ponad 7000 mil, obserwujący obraz na ekranach w przyczepach przy bazach Sił Powietrznych rozsianych po Stanach Zjednoczonych."
+      }
+    },
+    {
+      "card_number": 3,
+      "title": "Reapers",
+      "icons": "CTGW",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Naloty mogą usuwać do 2 aktywnych bojówek na każde wybrane pole lub 1 bazę (bazy ostatnie).",
+          "en": "Air Strikes may remove up to 2 Active Guerrillas (or 1 Base last) per space.",
+          "action_name": "Drone war"
+        },
+        {
+          "pl": "Liczba pól objętych nalotem zostaje zredukowana do 1.",
+          "en": "Air Strikes affect only 1 space.",
+          "action_name": "Controversy"
+        }
+      ],
+      "fluff": {
+        "en": "After the Predator came the Reaper UAV, first fielded in Afghanistan in 2009. It was bigger, faster, and more heavily armed than the Predator. Still faster, stealthier, and more heavily armed models were being developed.",
+        "pl": "Po Predatorze pojawił się Reaper UAV, po raz pierwszy wprowadzony do działań w Afganistanie w 2009 roku. Był większy, szybszy i silniej uzbrojony od Predatora. Opracowywano już jednak konstrukcje jeszcze szybsze, trudniej wykrywalne i lepiej uzbrojone."
+      }
+    },
+    {
+      "card_number": 4,
+      "title": "#2 Is Dead",
+      "icons": "CTWG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń 1 element Talibów z Pakistanu i odejmij od zasobów Talibów wynik rzutu kostką.",
+          "en": "Remove a Taliban piece from Pakistan. Subtract a die roll from Taliban Resources.",
+          "action_name": "Leadership loss"
+        },
+        {
+          "pl": "Umieść w Pakistanie 1 element Talibów i dodaj do ich zasobów wynik rzutu kostką.",
+          "en": "Place a Taliban piece in Pakistan. Add a die roll to Taliban Resources",
+          "action_name": "Martyr"
+        }
+      ],
+      "fluff": {
+        "en": "For every #1 insurgent leader, there is a #2 – and several of these were eliminated in Afghanistan or Pakistan by drone strikes (because there is always a #3 to take #2’s place). Sometimes these drone strikes missed their mark but were still taken as malicious acts, further intensifying feeling against the Coalition.",
+        "pl": "Każdy przywódca rebelii numer 1 ma swojego numer 2 – a kilku takich zastępców zlikwidowano w Afganistanie lub Pakistanie uderzeniami dronów (bo zawsze znajdzie się numer 3, który zajmie miejsce numeru 2). Zdarzało się, że drony chybiały, lecz i tak odbierano ich ataki jako wrogie akty, co dodatkowo podsycało nastroje przeciw Koalicji."
+      }
+    },
+    {
+      "card_number": 5,
+      "title": "Aerostats",
+      "icons": "CTWG",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Od tej pory marsz Talibów kosztuje dodatkowy 1 zasób za pole, włączając w to LoCs.",
+          "en": "Taliban March costs +1 extra Resource per Space, including LoCs.",
+          "action_name": "Eye in the Sky"
+        },
+        {
+          "pl": "Od tej pory marsz Talibów ukrywa 1 aktywną bojówkę. Limit: 1 bojówka na kartę.",
+          "en": "Taliban March flips 1 Active Guerrilla Underground per card.",
+          "action_name": "Bomb kites and weather"
+        }
+      ],
+      "fluff": {
+        "en": "Lightweight cameras and radars could be carried aloft by tethered balloons, to carry out constant surveillance of roads, passes, defiles or unobservable ground near a Coalition base or fighting position.",
+        "pl": "Lekkie kamery i radary można było wynosić w powietrze na uwięzionych balonach, aby stale obserwować drogi, przełęcze, wąwozy oraz teren niewidoczny w pobliżu bazy Koalicji lub stanowisk bojowych."
+      }
+    },
+    {
+      "card_number": 6,
+      "title": "US-Pakistan Talks",
+      "icons": "CTWG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku wrogości.",
+          "en": "Shift Islamabad 2 boxes toward Hostility.",
+          "action_name": "Feathers smoothed"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu.",
+          "en": "Shift Islamabad 2 boxes toward Sponsorship.",
+          "action_name": "Frenemies"
+        }
+      ],
+      "fluff": {
+        "en": "There were many meetings between American and Pakistani government officials for them to bring pressure on the Taliban’s sanctuary in the Federally Administrated Tribal Areas (FATA) that form part of Pakistan’s border with Afghanistan. The Government of Pakistan, struggling simultaneously with religious extremism, unstable politics, a weak economy, poverty, unemployment, regional separatism, domestic terrorism, constant tension with India, and a desire to exert influence on Afghanistan, was unable to muster more than token crackdowns on Taliban fighters and occasional cooperation with Coalition forces at border crossing points.",
+        "pl": "Amerykańscy i pakistańscy przedstawiciele rządowi odbyli wiele spotkań, usiłując wywrzeć presję na talibskie schronienie w Federalnie Administrowanych Obszarach Plemiennych (FATA), leżących przy granicy Pakistanu z Afganistanem. Rząd Pakistanu, zmagający się równocześnie z religijnym ekstremizmem, niestabilną polityką, słabą gospodarką, biedą, bezrobociem, regionalnym separatyzmem, terroryzmem wewnętrznym, nieustannym napięciem z Indiami oraz dążeniem do zachowania wpływów w Afganistanie, nie był w stanie zdobyć się na więcej niż symboliczne rozprawy z bojownikami Talibanu i okazjonalną współpracę z siłami Koalicji na przejściach granicznych."
+      }
+    },
+    {
+      "card_number": 7,
+      "title": "Find Fix Finish",
+      "icons": "CGTW",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "1 z elementów usuwanych przez każdy szturm koalicji może znajdować się w ukryciu.",
+          "en": "1 piece removed each Coalition Assault space may be Underground.",
+          "action_name": "Net-centric warfare"
+        },
+        {
+          "pl": "Szturm koalicji wymierzony we wrogą bazę musi zawierać dowolną kostkę rządu.",
+          "en": "Assault to remove any Bases must include any Govt cube.",
+          "action_name": "Ignorance of human terrain"
+        }
+      ],
+      "fluff": {
+        "en": "The concept of “network-centric warfare” seemed to be borne out in the early stages of the war in Afghanistan, when small groups or even individual Special Forces operators could access volumes of data in near real time, allowing them to move quickly and cause maximum disruption to the enemy. However, the best satellite photos in the world will not replace the need for the ability to talk to and learn from the “human terrain” through which troops are moving.",
+        "pl": "Koncepcja „wojny sieciocentrycznej” zdawała się potwierdzać we wczesnej fazie wojny w Afganistanie, gdy niewielkie grupy, a nawet pojedynczy operatorzy sił specjalnych mogli uzyskiwać dostęp do ogromnych ilości danych niemal w czasie rzeczywistym. Pozwalało im to działać szybko i maksymalnie dezorganizować przeciwnika. Jednak nawet najlepsze zdjęcia satelitarne świata nie zastąpią zdolności rozmowy z „ludzkim terenem” i uczenia się od ludzi, pośród których przemieszczają się wojska."
+      }
+    },
+    {
+      "card_number": 8,
+      "title": "SEAL Team 6",
+      "icons": "CGTW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń dowolny element Talibów z Pakistanu i odejmij 6 od ich zasobów.",
+          "en": "Remove a Taliban piece from Pakistan. Taliban Resources -6.",
+          "action_name": "Taliban ally loses leader"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu.",
+          "en": "Shift Islamabad 2 boxes toward Sponsorship",
+          "action_name": "Sovereignty violated"
+        }
+      ],
+      "fluff": {
+        "en": "On May 2, 2011, members of the United States Naval Special Warfare Development Group raided Osama bin Laden’s compound in Abbottabad, Pakistan and killed him. His elimination was the fulfillment of a major objective of the “Global War on Terror”, and a blow to al-Qaeda’s organizational effectiveness. Items seized in the raid yielded significant intelligence on the status of the organization. The Pakistani Government, which had not been informed of the raid, protested the American incursion.",
+        "pl": "2 maja 2011 roku członkowie United States Naval Special Warfare Development Group przeprowadzili rajd na kompleks Osamy bin Ladena w Abbottabadzie w Pakistanie i zabili go. Jego eliminacja była realizacją jednego z głównych celów „globalnej wojny z terroryzmem” oraz ciosem dla sprawności organizacyjnej Al-Kaidy. Materiały zdobyte podczas rajdu dostarczyły istotnych informacji wywiadowczych o stanie organizacji. Rząd Pakistanu, niepoinformowany wcześniej o operacji, zaprotestował przeciw amerykańskiemu wtargnięciu."
+      }
+    },
+    {
+      "card_number": 9,
+      "title": "Special Forces",
+      "icons": "CGTW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Koalicja może usunąć 2 elementy frakcji powstańczych w odległości do 1 pola od ich sił.",
+          "en": "Coalition removes 2 Insurgent pieces from within 1 space of its Troops.",
+          "action_name": "Raids"
+        },
+        {
+          "pl": "Jeśli elementy koalicji znajdują się w sąsiedztwie pól pasztuńskich w Pakistanie, przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu.",
+          "en": "If Coalition adjacent to Pashtun Pakistan, shift Islamabad 2 boxes toward Sponsorship.",
+          "action_name": "Incursion suspected"
+        }
+      ],
+      "fluff": {
+        "en": "The Durand Line which forms the border between Afghanistan and Pakistan is indistinct in many places, and it happened that Coalition Special Operations Forces troops “accidentally on purpose” wandered across it to observe insurgent camps and hit them with UAV or other air strikes. The Pakistani Government was understandably sensitive about these events.",
+        "pl": "Linia Duranda, wyznaczająca granicę Afganistanu i Pakistanu, w wielu miejscach jest niejasna. Zdarzało się, że żołnierze sił specjalnych Koalicji „przypadkiem, ale nie całkiem” przekraczali ją, by obserwować obozy powstańców i razić je dronami lub innymi środkami lotniczymi. Pakistański rząd był, co zrozumiałe, szczególnie wrażliwy na takie zdarzenia."
+      }
+    },
+    {
+      "card_number": 10,
+      "title": "Partnering Policy",
+      "icons": "CGWT",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Koalicja lub rząd może przeprowadzić 1 dowolne darmowe operacje ograniczone.",
+          "en": "Coalition or Government executes any 2 free Limited Operations.",
+          "action_name": "Close knit"
+        },
+        {
+          "pl": "Do propagandy koalicja nie może prowadzić operacji przy użyciu zasobów rządu.",
+          "en": "Until Propaganda, no Coalition Operations that would spend Govt Resources.",
+          "action_name": "Unraveled"
+        }
+      ],
+      "fluff": {
+        "en": "Coalition trainers and advisors worked as mentors to the Afghan National Army (ANA) and Police (ANP) from their re-creation in 2002. As progressively larger numbers of recruits joined, and larger units formed and deployed, Afghan units would operate in partnership with attached “enabler training teams” and jointly with complete Coalition units. In 2009, with the arrival of General Stanley McChrystal as Commander of the International Security Assistance Force, these temporary arrangements gave way to a policy of “embedded partnering”, wherein Afghan and Coalition units were to live at and operate from the same bases, and match their command and operational procedures and organizations as completely as possible. By 2012, over 90% of ANA units were partnered with NATO units (Brookings Afghanistan Index). However, there remained large gaps in cultural understanding, language, levels of logistical support and technical competence, and basic trust that make this desirable goal difficult to reach.",
+        "pl": "Instruktorzy i doradcy Koalicji pełnili rolę mentorów Afgańskiej Armii Narodowej (ANA) oraz Policji Narodowej Afganistanu (ANP) od czasu ich odtworzenia w 2002 roku. Wraz z napływem kolejnych rekrutów oraz formowaniem i rozmieszczaniem większych jednostek, siły afgańskie działały wspólnie z przydzielonymi zespołami szkoleniowo-wspierającymi oraz pełnymi jednostkami Koalicji. W 2009 roku, po objęciu dowództwa Międzynarodowymi Siłami Wsparcia Bezpieczeństwa przez generała Stanleya McChrystala, rozwiązania tymczasowe ustąpiły polityce „osadzonego partnerstwa”: oddziały afgańskie i koalicyjne miały mieszkać oraz działać z tych samych baz, a także możliwie najściślej dostosować swoje procedury dowodzenia, działania i struktury organizacyjne. Do 2012 roku ponad 90% jednostek ANA współpracowało partnersko z jednostkami NATO. Nadal jednak istniały poważne różnice w rozumieniu kultury, języku, poziomie wsparcia logistycznego i kompetencji technicznych, a także w podstawowym zaufaniu – co utrudniało osiągnięcie tego pożądanego celu."
+      }
+    },
+    {
+      "card_number": 11,
+      "title": "Strategic Release",
+      "icons": "CGWT",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do propagandy rzuć kostką za każde pole wybrane do przeprowadzenia szturmu. Wynik 1-4: zamień każdy usunięty element na dowolną kostkę rządu. Wynik 5-6: usunięte bojówki rozmieść na cele z bazą ich właściciela. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Until Propaganda, each Assault rolls a die for each space.",
+          "action_name": "Executing Faction remains Eligible"
+        },
+        {
+          "action_name": "1-4 Detainees turned",
+          "pl": "",
+          "en": "Replace each piece removed with a Govt cube. 5-6 Recidivism: Removed Guerrillas move to owner’s Base if possible."
+        }
+      ],
+      "fluff": {
+        "en": "For some time, the United States operated the Strategic Release Program, under which a limited number of influential insurgent commanders are paroled from detention, in exchange for information or a commitment to pursue reconciliation with the Government, and on the condition that they would not take up arms again.",
+        "pl": "Przez pewien czas Stany Zjednoczone prowadziły Program Strategicznego Zwolnienia, w ramach którego ograniczoną liczbę wpływowych dowódców powstańczych warunkowo zwalniano z internowania w zamian za informacje albo zobowiązanie do podjęcia pojednania z rządem, pod warunkiem, że nie chwycą ponownie za broń."
+      }
+    },
+    {
+      "card_number": 12,
+      "title": "Village Stability Operations",
+      "icons": "CGWT",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Po przeprowadzeniu operacji szkolenia, koalicja może dodać za darmo 1 kostkę policji do dowolnego pola zawierającego jej siły.",
+          "en": "Coalition after Training adds 1 Police free from anywhere to any 1 space with Coalition Troops.",
+          "action_name": "Local police"
+        },
+        {
+          "pl": "Wykonując operacje szkolenia, koalicja może dodać nie więcej niż 1 kostkę policji na wybrane pole.",
+          "en": "Each Coalition Training places no more than 1 Police per space.",
+          "action_name": "Police recruits unsteady"
+        }
+      ],
+      "fluff": {
+        "en": "The concept of Village Stability Operations was to tie together building local defense forces, strengthening or reviving local governance, and exploiting opportunities for economic development at the village level, under the leadership of Coalition special operations forces or specially trained conventional troops. Programs along these lines began in 2005, but the concept was applied on a much wider scale beginning in 2010, together with the creation of a new security force, the Afghan Local Police, who had been trained largely by US Special Forces troops.",
+        "pl": "Koncepcja Operacji Stabilizacji Wiosek miała połączyć budowę lokalnych sił obronnych, wzmacnianie lub odtwarzanie miejscowej administracji oraz wykorzystywanie szans rozwoju gospodarczego na poziomie wsi. Działaniami tymi kierowały koalicyjne siły specjalne albo odpowiednio wyszkolone oddziały wojsk regularnych. Programy tego rodzaju rozpoczęto w 2005 roku, lecz koncepcję zastosowano na znacznie większą skalę od 2010 roku, wraz z utworzeniem nowej formacji bezpieczeństwa – Afgańskiej Policji Lokalnej, szkolonej w dużej mierze przez amerykańskie siły specjalne."
+      }
+    },
+    {
+      "card_number": 13,
+      "title": "Anti-Corruption Drive",
+      "icons": "CWTG",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do propagandy rząd nie może dokonywać transferu klientelizmu.",
+          "en": "Until Prop, Govern transfers no Patronage.",
+          "action_name": "“We mean it this time”"
+        },
+        {
+          "pl": "Rząd dodaje 3 do klientelizmu i musi wybrać dowolne pole zawierające kostki policji lub wojska do przeprowadzenia darmowego przekupstwa.",
+          "en": "Government selects Troop or Police targets for a free Suborn in 1 space and adds +3 Patronage.",
+          "action_name": "Game the system"
+        }
+      ],
+      "fluff": {
+        "en": "Widespread corruption, especially bribery, was a major issue in Afghanistan and a formidable obstacle to the Government’s gaining any legitimacy or trust from its citizens. President Karzai issued several decrees directing crackdowns on corruption in the judicial, law enforcement, and local government sectors. While some progress was made in the later years of the Coalition’s time in Afghanistan, the country remained one of the most corrupt in the world.",
+        "pl": "Wszechobecna korupcja, zwłaszcza łapówkarstwo, była w Afganistanie wielkim problemem i poważną przeszkodą w zdobyciu przez rząd legitymizacji oraz zaufania obywateli. Prezydent Karzaj wydał kilka dekretów nakazujących zwalczanie korupcji w sądownictwie, organach ścigania i administracji lokalnej. Choć w ostatnich latach obecności Koalicji odnotowano pewien postęp, kraj pozostał jednym z najbardziej skorumpowanych na świecie."
+      }
+    },
+    {
+      "card_number": 14,
+      "title": "Economic Project",
+      "icons": "CWTG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Na każdym polu zawierającym kostki, zamień bazę frakcji powstańczej na jej bojówkę.",
+          "en": "In each space with cubes, replace an Insurgent Faction’s Base with its Guerrilla.",
+          "action_name": "Erode networks"
+        },
+        {
+          "pl": "Frakcja powstańcza dodaje 3 zasoby za każde pole zawierające jej element i bazę frakcji COIN.",
+          "en": "An Insurgent gains +3 Resources per space with both a COIN Base and its piece.",
+          "action_name": "Civil-military friction misdirects aid"
+        }
+      ],
+      "fluff": {
+        "en": "Billions of dollars were spent in Afghanistan in the attempt to re-activate the country’s moribund civilian economy. But such large amounts of money went astray as often as they benefitted or stabilized communities, due to such factors as poor police and administrative leadership, corruption, theft, abuse of civilians, or the inability of security forces to protect Non-Government Organizations.",
+        "pl": "W Afganistanie wydano miliardy dolarów, próbując ożywić pogrążoną w marazmie gospodarkę cywilną kraju. Jednak równie często, jak pieniądze przynosiły społecznościom korzyści lub stabilizację, trafiały w niewłaściwe ręce – z powodu słabego przywództwa w policji i administracji, korupcji, kradzieży, nadużyć wobec cywilów czy niezdolności sił bezpieczeństwa do ochrony organizacji pozarządowych."
+      }
+    },
+    {
+      "card_number": 15,
+      "title": "One Tribe at a Time",
+      "icons": "CWTG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń wszystkie bojówki z kontrolowanej przez frakcję COIN prowincji, a następnie przeprowadź tam akcję obywatelską.",
+          "en": "In a COIN-Control Province, remove all Guerrillas and buy any Civic Action desired.",
+          "action_name": "Engagement"
+        },
+        {
+          "pl": "W niekontrolowanej przez żadną frakcję prowincji, zamień 3 elementy Talibów lub 3 elementy rządu na 3 elementy watażków.",
+          "en": "In an Uncontrolled Province, replace up to 3 Govt or Taliban pieces with any Warlord pieces.",
+          "action_name": "Entrepreneur warlord"
+        }
+      ],
+      "fluff": {
+        "en": "In 2009, a United States Special Forces member wrote a paper with the title “One Tribe at a Time”, emphasizing the basic role that tribes play in Afghan society, and proposing the development of Tribal Engagement Teams who would live and fight with the tribes in countering the Taliban. His ideas were not officially adopted, but there were attempts to engage tribal leaders, and many militias that were stood up were actually tribal in nature. (Gant passim; Giustozzi p. 190) Not every analyst agreed with these ideas, some stressing the damage done to tribal power structures over the previous 30 years of violence or concluding that people would continue to act in accordance with whatever opportunities and events that might arise outside tribal structures.",
+        "pl": "W 2009 roku żołnierz amerykańskich sił specjalnych napisał tekst zatytułowany „One Tribe at a Time”, podkreślający podstawową rolę plemion w społeczeństwie afgańskim i proponujący stworzenie Plemiennych Zespołów Zaangażowania, które miałyby żyć i walczyć wraz z plemionami przeciw Talibanowi. Pomysłów tych nie przyjęto oficjalnie, lecz podejmowano próby pozyskania przywódców plemiennych, a wiele utworzonych milicji miało w istocie charakter plemienny. Nie wszyscy analitycy zgadzali się z tym podejściem: część wskazywała na zniszczenia, jakie trzy dekady przemocy wyrządziły tradycyjnym strukturom plemiennym, inni zaś uznawali, że ludzie nadal będą kierować się szansami i wydarzeniami wykraczającymi poza te struktury."
+      }
+    },
+    {
+      "card_number": 16,
+      "title": "Amnesty",
+      "icons": "CWGT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Zapłać 1 zasób za każde pole kontrolowane lub popierające COIN i zamień tam 1 bojówkę.",
+          "en": "Each Support or COIN-Control space, pay –1 Govt Resource to remove a Guerrilla.",
+          "action_name": "Cash in now"
+        },
+        {
+          "pl": "Zamień 2 elementy frakcji powstańczej na 2 elementy tego samego typu drugiej frakcji powstańczej.",
+          "en": "Replace any 2 Insurgent pieces with the other Insurgent’s pieces of the same type.",
+          "action_name": "OK to be me"
+        }
+      ],
+      "fluff": {
+        "en": "There were infrequent amnesty initiatives to get Taliban members or individual warlords to reintegrate into Afghan society and participate in local politics. They generally were neither effective nor very popular with the civilian population, many of whom saw them as government collusion with the enemy.",
+        "pl": "Od czasu do czasu podejmowano inicjatywy amnestyjne, aby skłonić członków Talibanu lub pojedynczych watażków do ponownej integracji ze społeczeństwem afgańskim i udziału w lokalnej polityce. Zwykle nie były one ani skuteczne, ani szczególnie popularne wśród ludności cywilnej, której wielu przedstawicieli postrzegało je jako współpracę rządu z wrogiem."
+      }
+    },
+    {
+      "card_number": 17,
+      "title": "NATO",
+      "icons": "CWGT",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Przesuń z pola ofiar wszystkie kostki koalicji na obszar dostępnych sił lub jeśli nie ma ofiar przesuń kostki koalicji usunięte z gry.",
+          "en": "Move all Troop Casualties or, if none, removed Coalition Troops to Available.",
+          "action_name": "ISAF bolstered"
+        },
+        {
+          "pl": "Do propagandy operacje koalicji, transport lotniczy i wzmocnienie dozwolone są na polach zawierających elementy koalicji.",
+          "en": "Until Prop, Coalition Ops, Air Lift, Surge only where already Coalition.",
+          "action_name": "Command strictures"
+        }
+      ],
+      "fluff": {
+        "en": "Dozens of countries from within and without the North Atlantic Treaty Organization sent contingents of troops to Afghanistan, but only a few of them permitted their troops to engage the Taliban directly in offensive military operations.",
+        "pl": "Dziesiątki państw, należących i nienależących do Organizacji Traktatu Północnoatlantyckiego, wysłały do Afganistanu kontyngenty wojskowe, lecz tylko nieliczne zezwoliły swoim żołnierzom na bezpośrednie zaangażowanie Talibanu w ofensywnych działaniach bojowych."
+      }
+    },
+    {
+      "card_number": 18,
+      "title": "PRTs",
+      "icons": "CWGT",
+      "additional_info": {
+        "pl": "Zdolność koalicji",
+        "en": "COALITION CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Podczas operacji szkolenia, koalicja może przeprowadzić akcję obywatelską w 1 lub 2 polach.",
+          "en": "Coalition Training Operation may buy Civic Actions in 1 or 2 spaces.",
+          "action_name": "Development detachments"
+        },
+        {
+          "pl": "Koalicja może przeprowadzić operację szturmu tylko na 1 polu na kartę.",
+          "en": "Coalition Assault may target only 1 space per card.",
+          "action_name": "Defensive posture"
+        }
+      ],
+      "fluff": {
+        "en": "Provincial Reconstruction Teams (PRTs) were created by the United States Army as small joint civil-military organizations with the triple aim of creating local security, fostering better cooperation between different agencies working in the same area, and promoting reconstruction. By 2011, there were 27 PRTs operating in the majority of Afghanistan’s provinces, about half of them commanded by United States officers. The PRTs were a generally positive development in that they delivered several billion dollars of economic aid and initiated thousands of projects. But there were tensions between the civilian, military, and non-governmental organizations that worked within the concept.",
+        "pl": "Zespoły Odbudowy Prowincji (PRT) utworzono z inicjatywy Armii Stanów Zjednoczonych jako niewielkie, wspólne organizacje cywilno-wojskowe o trzech celach: zapewnianiu lokalnego bezpieczeństwa, poprawie współpracy różnych agencji działających na tym samym obszarze oraz wspieraniu odbudowy. Do 2011 roku w większości afgańskich prowincji działało 27 PRT, z czego około połową dowodzili oficerowie amerykańscy. PRT były generalnie pozytywnym przedsięwzięciem: przekazały kilka miliardów dolarów pomocy gospodarczej i rozpoczęły tysiące projektów. Wokół tej koncepcji pojawiały się jednak napięcia między organizacjami cywilnymi, wojskowymi i pozarządowymi."
+      }
+    },
+    {
+      "card_number": 19,
+      "title": "Al-Qaeda",
+      "icons": "TCGW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Dodaj 9 do zasobów rządu i wsparcia, następnie koalicja może przeprowadzić darmową operację wzmocnienia.",
+          "en": "Govt Resources +9. Aid +9. Coalition executes a free Surge.",
+          "action_name": "Jus ad bellum"
+        },
+        {
+          "pl": "Talibowie mogą przeprowadzić za darmo operację terroru lub ataku na każdym polu z ukrytą bojówką Talibów. Bojówki nie są aktywowane.",
+          "en": "Taliban free Terror or Attack in each Afghan space with Underground Taliban. No Guerrillas Activate.",
+          "action_name": "Helpmate"
+        }
+      ],
+      "fluff": {
+        "en": "In the days of the Taliban Government (1996-2001), al-Qaeda established facilities in Afghanistan for its members and leaders to train, meet, and plan operations. In return, the Taliban received large amounts of money, donated to al-Qaeda from individuals and organizations in the Arab world, and al-Qaeda members trained Taliban fighters. From 1998, the United States and Saudi Arabia pressured the Taliban to hand over Usama Bin Ladin to face criminal proceedings for Al-Qaeda’s attacks on US targets, and it was their refusal to do so after 9/11 that led to the launch of “Operation Enduring Freedom”. With the Coalition in Afghanistan, al-Qaeda turned a part of its anti-US effort to insurgency there.",
+        "pl": "W okresie rządów Talibanu (1996–2001) Al-Kaida stworzyła w Afganistanie ośrodki, w których jej członkowie i przywódcy mogli szkolić się, spotykać oraz planować operacje. W zamian Taliban otrzymywał duże sumy pieniędzy przekazywane Al-Kaidzie przez osoby prywatne i organizacje ze świata arabskiego, a członkowie Al-Kaidy szkolili talibskich bojowników. Od 1998 roku Stany Zjednoczone i Arabia Saudyjska naciskały na Taliban, aby wydał Usamę bin Ladena do postępowania karnego za ataki Al-Kaidy na amerykańskie cele. Odmowa po 11 września doprowadziła do rozpoczęcia „Operacji Enduring Freedom”. Po wejściu Koalicji do Afganistanu Al-Kaida skierowała część swoich działań antyamerykańskich na tamtejszą rebelię."
+      }
+    },
+    {
+      "card_number": 20,
+      "title": "Errant Air Strike",
+      "icons": "TCGW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Koalicja może przeprowadzić operację wzmocnienia ignorującą kontrolę COIN. Nie może jednak usuwać elementów z mapy na obszar dostępnych sił.",
+          "en": "Coalition executes a free Surge ignoring Control and without removing to Available.",
+          "action_name": "Focus on ground war"
+        },
+        {
+          "pl": "Przesuń poparcie w prowincji zawierającej elementy Talibów i koalicji do opozycji i połóż w niej znacznik terroru.",
+          "en": "Set a Province with Coalition and Taliban to Opposition. Place a Terror there.",
+          "action_name": "Wedding hit"
+        }
+      ],
+      "fluff": {
+        "en": "In any given year of the conflict, the Taliban were responsible for the great majority of civilian casualties. (Brookings Afghanistan Index, passim) However, when Coalition manned aircraft or UAVs struck the wrong target or caused significant civilian casualties in Close Air Support operations, the event received wide publicity in both the Western and Arab-language media.",
+        "pl": "W każdym roku konfliktu Taliban odpowiadał za zdecydowaną większość ofiar cywilnych. Gdy jednak załogowe samoloty Koalicji lub UAV-y raziły niewłaściwy cel albo powodowały znaczne straty wśród cywilów podczas operacji bliskiego wsparcia lotniczego, wydarzenie zyskiwało szeroki rozgłos zarówno w mediach zachodnich, jak i arabskich."
+      }
+    },
+    {
+      "card_number": 21,
+      "title": "Operation Iraqi Freedom",
+      "icons": "TCGW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Talibowie muszą usunąć: 1 bazę, liczbę bojówek równą rezultatowi rzutu kostką oraz zasoby równe rezultatowi rzutu kostką.",
+          "en": "Taliban must remove a Base, a die roll of Guerrillas, and a die roll of Resources.",
+          "action_name": "Flypaper"
+        },
+        {
+          "pl": "Koalicja podczas następnej karty będzie frakcją nieuprawnioną oraz musi usunąć 2 elementy z obszaru dostępnych sił na pole ofiar.",
+          "en": "Coalition removes 2 of its pieces from Available to Casualties and is Ineligible through next card.",
+          "action_name": "Quagmire"
+        }
+      ],
+      "fluff": {
+        "en": "It was a common criticism that the invasion of Iraq in 2003 and the lengthy insurgency that followed it proved a fatal diversion from the US-led effort in Afghanistan. This was neither completely true nor false: the modest commitment of US forces to Afghanistan in 2002-04 was not yet opposed by a strong Taliban insurgency, and the official focus was on rebuilding Afghan government and society and reconstituting its security forces. By 2005-06, the escalating demands of the Iraqi insurgency did prevent effective reinforcement of Afghanistan, just at the time the Taliban insurgency was gaining traction, but by 2009-10 the winding-down of the force commitment in Iraq permitted a significant “surge” of troops, aid, and resources.",
+        "pl": "Często krytykowano inwazję na Irak w 2003 roku oraz długotrwałą rebelię, która po niej nastąpiła, jako fatalne odwrócenie uwagi od prowadzonego przez USA wysiłku w Afganistanie. Nie było to ani całkowicie prawdziwe, ani całkowicie fałszywe. Skromne zaangażowanie sił amerykańskich w Afganistanie w latach 2002–2004 nie napotykało jeszcze silnej rebelii talibskiej, a oficjalnie skupiano się na odbudowie afgańskiego rządu i społeczeństwa oraz odtworzeniu sił bezpieczeństwa. W latach 2005–2006 rosnące potrzeby wojny w Iraku faktycznie uniemożliwiły skuteczne wzmocnienie Afganistanu, akurat gdy rebelia Talibanu nabierała rozpędu. Jednak w latach 2009–2010 ograniczanie zaangażowania w Iraku umożliwiło znaczący „surge” wojsk, pomocy i zasobów."
+      }
+    },
+    {
+      "card_number": 22,
+      "title": "Border Incident",
+      "icons": "TCWG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń 3 bojówki Talibów z Pakistanu lub prowincji do niego przyległych.",
+          "en": "Remove any 3 Taliban Guerrillas in or adjacent to Pakistan.",
+          "action_name": "Taliban insertion foiled"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Shift Islamabad 2 boxes toward Sponsorship. Executing Faction remains Eligible.",
+          "action_name": "Pakistan furious"
+        }
+      ],
+      "fluff": {
+        "en": "Both Pakistan and Afghanistan maintained considerable forces in a system of garrisons and outposts to maintain control over the border between the two countries, and Coalition forces often operated very near the border to try and interdict insurgent movements. Exchanges of fire occurred and sometimes escalated into diplomatic incidents.",
+        "pl": "Pakistan i Afganistan utrzymywały znaczne siły w systemie garnizonów i posterunków, aby kontrolować granicę między oboma państwami. Siły Koalicji często działały bardzo blisko granicy, próbując przechwytywać ruchy powstańców. Dochodziło do wymiany ognia, która czasem przeradzała się w incydenty dyplomatyczne."
+      }
+    },
+    {
+      "card_number": 23,
+      "title": "Roadside IEDs",
+      "icons": "TCWG",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Atak Talibów może usunąć nie więcej niż 1 element koalicji na wybrane pole.",
+          "en": "Taliban Attacks can remove no more than 1 Coalition piece per space.",
+          "action_name": "JIEDDO counter-IED tactics"
+        },
+        {
+          "pl": "Każdy atak Talibów może usunąć dodatkowo trzeci element na wybrane do ataku pole i sabotować nieobsadzony sąsiedni LoC.",
+          "en": "Each Taliban Attack removes a 3rd piece and Sabotages an adjacent empty LoC.",
+          "action_name": "Casualties mount"
+        }
+      ],
+      "fluff": {
+        "en": "The Joint Improvised Explosive Device Defeat Organization (JIEDDO) was created in 2006 by the US Department of Defense in order to tackle the problem the Taliban’s and other insurgents’ use of IEDs, the leading cause of death or injury among Coalition troops in Afghanistan. JIEDDO adopted a mix of simple and complex methods: an example of the former was paving roads (which not only made roadside IEDs harder to conceal, but also improved the local economy and hence relations with the populace). (Kilcullen, Accidental Guerrilla, p. 99-102)",
+        "pl": "Połączoną Organizację do Zwalczania Improwizowanych Ładunków Wybuchowych (JIEDDO) utworzył w 2006 roku Departament Obrony USA, by stawić czoła problemowi użycia przez Taliban i innych powstańców improwizowanych ładunków wybuchowych (IED) – głównej przyczyny śmierci i obrażeń wśród żołnierzy Koalicji w Afganistanie. JIEDDO stosowała zarówno proste, jak i złożone metody. Przykładem tych pierwszych było utwardzanie dróg, które nie tylko utrudniało ukrywanie przydrożnych IED, lecz także wspierało lokalną gospodarkę, a tym samym relacje z ludnością."
+      }
+    },
+    {
+      "card_number": 24,
+      "title": "US-Taliban Talks",
+      "icons": "TCWG",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do propagandy operacje Talibów nie mogą usuwać elementów koalicji.",
+          "en": "Until Propaganda, Taliban Operations may not remove Coalition pieces (mark).",
+          "action_name": "Selective fire"
+        },
+        {
+          "pl": "Do propagandy koalicja nie może przeprowadzać szturmów.",
+          "en": "Until Propaganda, no Coalition Assault (mark).",
+          "action_name": "No sudden moves"
+        }
+      ],
+      "fluff": {
+        "en": "Direct, official contact between representatives of the United States and the Taliban began in late 2010. Earnest and productive negotiations held out the possibility of reducing the pace of operations in Afghanistan. Meetings took place in Germany and Qatar, but progress was slow. (US DoD Report on Progress, p. 82)",
+        "pl": "Bezpośrednie, oficjalne kontakty między przedstawicielami Stanów Zjednoczonych i Talibanu rozpoczęły się pod koniec 2010 roku. Poważne i konstruktywne negocjacje dawały nadzieję na zmniejszenie intensywności działań w Afganistanie. Spotkania odbywały się w Niemczech i Katarze, lecz postępy były powolne."
+      }
+    },
+    {
+      "card_number": 25,
+      "title": "Koran Burning",
+      "icons": "TGCW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń dowolne znaczniki terroru z pól zawierających elementy koalicji.",
+          "en": "Remove any Terror markers desired from spaces with Coalition.",
+          "action_name": "Compensation"
+        },
+        {
+          "pl": "Przesuń poparcie w Kabulu i w 1 dowolnej prowincji z elementami koalicji 1 stopień w kierunku opozycji.",
+          "en": "Shift Kabul and a Province with Coalition pieces each 1 level toward Opposition.",
+          "action_name": "Riots"
+        }
+      ],
+      "fluff": {
+        "en": "In February 2010, a number of Korans and other religious texts were accidentally burned by United States servicemen in an incinerator at Bagram Air Field north of Kabul. The ensuing riots in Afghan cities resulted in over 30 deaths. Videos of acts by Coalition personnel such as urinating on or desecrating corpses of Taliban fighters provoked similar responses.",
+        "pl": "W lutym 2010 roku amerykańscy żołnierze przypadkowo spalili w spalarni w bazie lotniczej Bagram, na północ od Kabulu, kilka egzemplarzy Koranu i inne teksty religijne. Następujące po tym zamieszki w afgańskich miastach pochłonęły ponad 30 ofiar śmiertelnych. Podobne reakcje wywoływały nagrania przedstawiające zachowania personelu Koalicji, takie jak oddawanie moczu na ciała talibskich bojowników lub ich bezczeszczenie."
+      }
+    },
+    {
+      "card_number": 26,
+      "title": "MANPADS Scare",
+      "icons": "TGCW",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Koalicja może wykonać transport lotniczy swoich sił pomiędzy 5 polami, a następnie w 1 z nich przeprowadzić darmową akcję ograniczoną.",
+          "en": "Coalition Air Lifts any Troops among 5 spaces, then LimOps in 1, free.",
+          "action_name": "False alarm—fly the friendly skies"
+        },
+        {
+          "pl": "Do propagandy Talibowie mogą anulować dowolny transport lotniczy lub nalot za cenę 1 zasobu.",
+          "en": "Until Prop, Taliban may cancel (count as executed) any Air Lift or Air Strike for –1 Resource.",
+          "action_name": "Whoosh!"
+        }
+      ],
+      "fluff": {
+        "en": "The Taliban had no anti-aircraft weapons except light automatic guns or rocket-propelled grenades, which could be effective against low-flying helicopters. However, if they had obtained shipments of Man-Portable Air Defense Systems (MANPADS), it might have proven as significant a development as when the mujaheddin began to use US-supplied Stinger missiles against Soviet aircraft in the late 1980s.",
+        "pl": "Taliban nie posiadał broni przeciwlotniczej poza lekką bronią automatyczną i granatnikami przeciwpancernymi, które mogły być skuteczne przeciw śmigłowcom lecącym na małej wysokości. Gdyby jednak zdobył dostawy przenośnych przeciwlotniczych zestawów rakietowych (MANPADS), mogłoby to mieć równie wielkie znaczenie jak chwila, gdy mudżahedini pod koniec lat osiemdziesiątych zaczęli używać dostarczonych przez USA pocisków Stinger przeciw radzieckim samolotom."
+      }
+    },
+    {
+      "card_number": 27,
+      "title": "Tehrik-i-Taliban Pakistan",
+      "icons": "TGCW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku wrogości.",
+          "en": "Shift Islamabad 2 boxes toward Hostility.",
+          "action_name": "TTP attack in Pakistan"
+        },
+        {
+          "pl": "Talibowie otrzymują 3 zasoby i mogą rozmieścić dowolne 2 elementy w Pakistanie lub prowincjach do niego przyległych.",
+          "en": "Taliban place 2 pieces in or adjacent to Pakistan and add +3 Resources.",
+          "action_name": "TTP support Quetta Shura"
+        }
+      ],
+      "fluff": {
+        "en": "The Tehrik-i-Taliban (TTP) or “Pakistan Taliban” was a religious extremist movement within Pakistan that was mainly active in the Northwest Frontier Province dominated by the Pashtun nationality. The TTP and Quetta Shura Taliban, the main Afghan Taliban organization, had similar beliefs and objectives and occasionally cooperated; the TTP also was responsible for a large number of incidents in major Pakistani cities, provoking a violent response from the Army.",
+        "pl": "Tehrik-i-Taliban Pakistan (TTP), czyli „Pakistański Taliban”, był religijnym ruchem ekstremistycznym działającym w Pakistanie, głównie w zdominowanej przez Pasztunów Północno-Zachodniej Prowincji Pogranicznej. TTP i Taliban Szury z Kwetty – główna organizacja afgańskich talibów – miały podobne przekonania i cele oraz sporadycznie współpracowały. TTP odpowiadał także za liczne incydenty w wielkich pakistańskich miastach, prowokując gwałtowną reakcję armii."
+      }
+    },
+    {
+      "card_number": 28,
+      "title": "Karzai to Islamabad",
+      "icons": "TGWC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku wrogości.",
+          "en": "Shift Islamabad 2 boxes toward Hostility.",
+          "action_name": "“I’m listening”"
+        },
+        {
+          "pl": "Talibowie otrzymują 6 zasobów. Rząd podczas rozstrzygania następnej karty będzie frakcją nieuprawnioną.",
+          "en": "Taliban Resources +6. Government Ineligible through next card.",
+          "action_name": "“I hear you knocking but you can’t come in”"
+        }
+      ],
+      "fluff": {
+        "en": "The main diplomatic issue between Afghanistan and Pakistan has been the Durand Line, an artificial creation of the British Empire that divides the Pashtun nationality in two, and the associated issues it raises of territorial integrity, tribal revolt, and the use by Afghan insurgents of Pakistani territory as a sanctuary. Pakistan would prefer a stable and functioning Afghan Government, as a counterweight to the influence of India, but the frequent border skirmishes put both governments in a difficult position.",
+        "pl": "Główną kwestią dyplomatyczną między Afganistanem a Pakistanem pozostawała linia Duranda – sztuczny twór Imperium Brytyjskiego, który dzieli naród pasztuński na dwie części – oraz związane z nią problemy integralności terytorialnej, buntu plemiennego i wykorzystywania przez afgańskich powstańców terytorium Pakistanu jako schronienia. Pakistan wolałby stabilny i sprawnie działający rząd w Afganistanie, stanowiący przeciwwagę dla wpływów Indii, lecz częste starcia graniczne stawiały oba rządy w trudnym położeniu."
+      }
+    },
+    {
+      "card_number": 29,
+      "title": "Night Letters",
+      "icons": "TGWC",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Terror Talibów przesuwa poparcie do neutralności, a nie do opozycji.",
+          "en": "Taliban Terror shifts to Neutral not Opposition.",
+          "action_name": "Threats resented"
+        },
+        {
+          "pl": "Szkolenie frakcji COIN pozwala na położenie nie więcej niż 4 kostek rządu.",
+          "en": "Training places no more than 4 cubes per space.",
+          "action_name": "Intimidation"
+        }
+      ],
+      "fluff": {
+        "en": "During the Soviet-Afghan War, the mujaheddin would often leave “night letters” – literally a letter left at someone’s door at night to warn collaborators or to intimidate the population. In 2005 the Taliban revived this tactic with considerable success.",
+        "pl": "Podczas wojny radziecko-afgańskiej mudżahedini często zostawiali „nocne listy” – dosłownie listy podrzucane nocą pod drzwi, by ostrzec współpracowników wroga lub zastraszyć ludność. W 2005 roku Taliban z niemałym powodzeniem wskrzesił tę metodę."
+      }
+    },
+    {
+      "card_number": 30,
+      "title": "Urban Specialists",
+      "icons": "TGWC",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Przeprowadzenie przez Talibów terroru w Kabulu wymaga aktywowania 1, a nie 2 ukrytych bojówek.",
+          "en": "Taliban Terror in Kabul requires Activation of 2 Underground Guerrillas.",
+          "action_name": "Ineffective"
+        },
+        {
+          "pl": "Przeprowadzenie przez Talibów terroru w Kabulu jest od tej pory darmowe i nie wymaga aktywowania bojówek.",
+          "en": "Taliban Terror in Kabul costs 0 Resources and does not Activate the Guerrilla.",
+          "action_name": "Effective"
+        }
+      ],
+      "fluff": {
+        "en": "Insurgents need to go where the people are, and a lot of them are in the main urban center of Kabul. The Taliban have been ingenious in using technically skilled fighters to collect intelligence, plan assassinations, and conduct spectacular high-visibility attacks on government buildings.",
+        "pl": "Powstańcy muszą iść tam, gdzie są ludzie, a wielu z nich mieszka w głównym ośrodku miejskim – Kabulu. Taliban pomysłowo wykorzystywał bojowników o umiejętnościach technicznych do zbierania informacji wywiadowczych, planowania zabójstw i przeprowadzania spektakularnych, szeroko nagłaśnianych ataków na budynki rządowe."
+      }
+    },
+    {
+      "card_number": 31,
+      "title": "Car Bombs",
+      "icons": "TWCG",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Przeprowadzenie przez Talibów zasadzki aktywuje im wszystkie ukryte bojówki na wybranym do operacji polu.",
+          "en": "Ambush Activates all Taliban in the space.",
+          "action_name": "Better VCP drills"
+        },
+        {
+          "pl": "Na 1 wybranym do zasadzki polu Talibowie mogą użyć aktywnej bojówki zamiast ukrytej. W tym wypadku nie dodaje się nowej bojówki.",
+          "en": "1 Taliban Ambush space may use an Active Guerrilla. Place no Guerrilla in that space.",
+          "action_name": "VBIEDs"
+        }
+      ],
+      "fluff": {
+        "en": "The JIEDDO (see card 23) has three lines of operation: “Attack the Network” (to discover IEDs before they are planted by fostering good intelligence-gathering relations with the local population), “Defeat the Device” (through detection and neutralization of IEDs by technical means, and protecting vehicles and personnel against their effects), and “Train the Force” (to detect, identify and react to IEDs). Vehicle check points (VCPs) were a principle means of keeping Taliban car bombs (vehicle-borne improvised explosive devices, or VBIEDs) away from critical targets.",
+        "pl": "JIEDDO (zob. karta 23) prowadziła działania w trzech liniach: „Atak na sieć” – wykrywanie IED, zanim zostaną podłożone, przez budowanie dobrych relacji wywiadowczych z lokalną ludnością; „Pokonanie urządzenia” – wykrywanie i neutralizowanie IED metodami technicznymi oraz ochrona pojazdów i personelu przed ich skutkami; oraz „Szkolenie sił” – nauka wykrywania, rozpoznawania i reagowania na IED. Punkty kontroli pojazdów (VCP) stanowiły podstawowy środek ochrony kluczowych celów przed talibskimi samochodami-pułapkami, czyli VBIED."
+      }
+    },
+    {
+      "card_number": 32,
+      "title": "Haqqani",
+      "icons": "TWCG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Talibowie muszą usunąć 1 bazę i 3 bojówki z prowincji Northwest Frontier.",
+          "en": "Taliban remove a Base and 3 Guerrillas from Northwest Frontier.",
+          "action_name": "Frictions with Quetta"
+        },
+        {
+          "pl": "Talibowie mogą umieścić 1 bazę i 3 bojówki w prowincji Northwest Frontier lub prowincji do niej przyległej.",
+          "en": "Taliban place a Base and 3 Guerrillas in or adjacent to Northwest Frontier.",
+          "action_name": "Taliban right hand"
+        }
+      ],
+      "fluff": {
+        "en": "The Haqqani Network was an important insurgent organization based in Waziristan. It was allied with al-Qaeda, the Quetta Shura Taliban, and the Hezb-e-Islami front (an Afghan Islamist organization, see card 35), though coordination between these main organizations was irregular.",
+        "pl": "Siatka Hakkani była ważną organizacją powstańczą bazującą w Waziristanie. Była sprzymierzona z Al-Kaidą, Talibanem Szury z Kwetty oraz Hezb-e Islami – afgańskim ugrupowaniem islamistycznym – choć koordynacja między tymi głównymi organizacjami była nieregularna."
+      }
+    },
+    {
+      "card_number": 33,
+      "title": "Suicide Bombers",
+      "icons": "TWCG",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Talibowie za przeprowadzenie terroru muszą z 1 z wybranych do operacji pól usunąć 1 bojówkę.",
+          "en": "Taliban each Terror must remove a Taliban Guerrilla from 1 selected space.",
+          "action_name": "Extremists expended"
+        },
+        {
+          "pl": "Talibowie po przeprowadzeniu terroru mogą z 1 z wybranych do operacji pól usunąć 1 wrogi element (bazy ostatnie). Element koalicji trafia na pole ofiar.",
+          "en": "Taliban Terror removes 1 enemy piece (Faction’s Base last) from 1 of the Terror spaces, Coalition to Casualties.",
+          "action_name": "Willing martyrs"
+        }
+      ],
+      "fluff": {
+        "en": "Beginning in 2006, the number of suicide bombings in Afghanistan increased rapidly, even as the technical failure rate for bombing attempts dropped. The tactic was effective in damaging targets but of dimishing political effect because of the large numbers of civilian casualties that occurred in each bombing. Also it relied on foreign fighters brought into the theater: the majority of individual bombers were not Afghans.",
+        "pl": "Od 2006 roku liczba zamachów samobójczych w Afganistanie gwałtownie rosła, nawet gdy techniczny odsetek niepowodzeń ataków malał. Taktyka skutecznie niszczyła cele, lecz jej efekt polityczny słabł z powodu wielkiej liczby cywilnych ofiar każdej eksplozji. Opierała się również na zagranicznych bojownikach sprowadzanych na teatr działań: większość indywidualnych zamachowców nie była Afgańczykami."
+      }
+    },
+    {
+      "card_number": 34,
+      "title": "Accidental Guerrillas",
+      "icons": "TWGC",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Usuń na obszar dostępnych sił przesunięte w fazie rozmieszczenia bojówki Talibów.",
+          "en": "Remove Taliban Guerrillas that Redeploy.",
+          "action_name": "Easy come, easy go"
+        },
+        {
+          "pl": "Po przeprowadzeniu przez koalicję szturmów, Talibowie mogą w 1 z wybranych do operacji pól umieścić swoją bojówkę.",
+          "en": "After Coalition completes an Assault operation, Taliban may place a Guerrilla into any 1 of the Assault spaces.",
+          "action_name": "Drawn in"
+        }
+      ],
+      "fluff": {
+        "en": "David Kilcullen’s 2009 book The Accidental Guerrilla explores in depth the problems posed by Western interventions to counter insurgencies in the developing world. In Afghanistan, the mistrust of foreigners, disruption of traditional networks and power relationships, and regional or global ideological or religious movements all combined to create a complex resistance to what the Coalition was trying to accomplish, as young Afghan males joined in the violence local to their community, on the side resisting foreign invasion.",
+        "pl": "Książka Davida Kilcullena z 2009 roku, „The Accidental Guerrilla”, szczegółowo bada problemy stwarzane przez zachodnie interwencje przeciw powstaniom w krajach rozwijających się. W Afganistanie nieufność wobec cudzoziemców, naruszenie tradycyjnych sieci i układów władzy oraz regionalne i globalne ruchy ideologiczne lub religijne połączyły się, tworząc złożony opór wobec celów Koalicji. Młodzi afgańscy mężczyźni przyłączali się do lokalnej przemocy po stronie sprzeciwiającej się obcej inwazji."
+      }
+    },
+    {
+      "card_number": 35,
+      "title": "Gulbuddin Hekmatyar",
+      "icons": "TWGC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń do 3 elementów Talibów z 1 wybranego pola.",
+          "en": "Remove up to 3 Taliban pieces from 1 space.",
+          "action_name": "Islamist infighting"
+        },
+        {
+          "pl": "Umieść 1 bazę i 1 bojówkę Talibów w neutralnej lub znajdującej się w opozycji prowincji pasztuńskiej.",
+          "en": "Place a Taliban Base and Guerrilla in a Neutral or Opposition Pashtun Province.",
+          "action_name": "Hezb-e-Islami front"
+        }
+      ],
+      "fluff": {
+        "en": "Gulbuddin Hekmatyar is the leader of Hezb-e-Islami or “Party of Islam”, an important insurgent organization based in the Northwest Frontier Province and allied with the Quetta Shura Taliban. Coordination between them was loose, however.",
+        "pl": "Gulbuddin Hekmatjar jest przywódcą Hezb-e Islami, czyli „Partii Islamu”, ważnej organizacji powstańczej działającej w Północno-Zachodniej Prowincji Pogranicznej i sprzymierzonej z Talibanem Szury z Kwetty. Współpraca między nimi była jednak luźna."
+      }
+    },
+    {
+      "card_number": 36,
+      "title": "Mullah Omar",
+      "icons": "TWGC",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Aktywuj na mapie wszystkie bojówki Talibów.",
+          "en": "Flip all Taliban Guerrillas to Active.",
+          "action_name": "Taliban leader killed"
+        },
+        {
+          "pl": "W następnej fazie poparcia, szariat dozwolony jest także w prowincjach niekontrolowanych przez Talibów, ale zawierających dowolny ich element.",
+          "en": "Next Support phase, Sharia also allowed if Uncontrolled and any Taliban.",
+          "action_name": "Islamist unifier"
+        }
+      ],
+      "fluff": {
+        "en": "Mullah Mohammad Omar is the leader of the Quetta Shura Taliban, the main insurgent organization in southern Afghanistan. He does not direct daily operations but is an important spiritual leader and coordinator among allied insurgent organizations, such as the Haqqani Network and Hezb-e-Islami. Resilient as the Taliban may be, his death or capture would have proven a shock to the group.",
+        "pl": "Mułła Mohammad Omar jest przywódcą Talibanu Szury z Kwetty, głównej organizacji powstańczej w południowym Afganistanie. Nie kieruje codziennymi operacjami, lecz jest ważnym duchowym przywódcą i koordynatorem wśród sprzymierzonych organizacji powstańczych, takich jak Siatka Hakkani i Hezb-e Islami. Taliban może być odporny, ale jego śmierć lub pojmanie byłoby dla tej grupy wstrząsem."
+      }
+    },
+    {
+      "card_number": 37,
+      "title": "Afghan Commandos",
+      "icons": "GCTW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Rząd może przesunąć od 1 do 4 kostek wojska na dowolne pole. Następnie może za darmo przeprowadzić tam przeczyszczanie i szturm.",
+          "en": "Govt moves any 1-4 Govt Troops to a space. They then free Sweep and free Assault there.",
+          "action_name": "Surprise strike"
+        },
+        {
+          "pl": "Odejmij 6 od zasobów rządu i wsparcia. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Govt Resources -6. Aid -6. Executing Faction remains Eligible.",
+          "action_name": "Flashy forces dissipate scarce resources"
+        }
+      ],
+      "fluff": {
+        "en": "The Afghan National Army Order of Battle includes a commando battalion in each of its six corps, plus a separate Special Operations Command of three commando brigades and a Special Forces brigade, trained along US lines. The first commando battalions became operational in 2007 but, like other Afghan Army units, suffered from personnel turbulence and needed training, transport, and logistical support from Coalition units and bases.",
+        "pl": "Struktura Afgańskiej Armii Narodowej obejmowała batalion komandosów w każdym z sześciu korpusów, a ponadto odrębne Dowództwo Operacji Specjalnych z trzema brygadami komandosów oraz brygadą sił specjalnych, szkolonych według amerykańskich wzorców. Pierwsze bataliony komandosów osiągnęły gotowość operacyjną w 2007 roku, lecz podobnie jak inne jednostki armii afgańskiej cierpiały z powodu dużej rotacji personelu i potrzebowały szkolenia, transportu oraz wsparcia logistycznego ze strony jednostek i baz Koalicji."
+      }
+    },
+    {
+      "card_number": 38,
+      "title": "Night Raids",
+      "icons": "GCTW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń wszystkie bazy frakcji powstańczych z dowolnych 2 pól zawierających siły koalicji.",
+          "en": "Remove all Insurgent Bases from any 2 spaces with Coalition Troops.",
+          "action_name": "Effective tactics"
+        },
+        {
+          "pl": "Rząd na jednym polu z poparciem może za darmo przeprowadzić operację zarządzania, bez względu na kontrolę i obecność w niej baz koalicji.",
+          "en": "Government free Governs in an Afghan Support space, ignoring Control and Coalition.",
+          "action_name": "Kabul defends privacy"
+        }
+      ],
+      "fluff": {
+        "en": "“Night raids” were a tactic used mostly by US Special Forces members to kill or capture individuals on the “Joint Prioritized Effects List” of important insurgent commanders and organizers. Because these operations involved sudden night-time forced entries into civilian houses, there were instances of civilian collateral casualties and mistaken identity, as well as anger over violation of the sanctity of an Afghan’s home (a major cultural transgression). In April 2012, the Afghan Government obtained agreement that future night raids would be led by Afghan units, or at least conducted with the Government’s knowledge and approval.",
+        "pl": "„Nocne rajdy” były taktyką stosowaną głównie przez amerykańskie siły specjalne, aby zabijać lub chwytać osoby z „Wspólnej Priorytetowej Listy Celów” ważnych dowódców i organizatorów rebelii. Ponieważ operacje te wiązały się z nagłymi, nocnymi, siłowymi wejściami do domów cywilów, zdarzały się ofiary uboczne i pomyłki w identyfikacji, a także oburzenie z powodu naruszania świętości afgańskiego domu – poważnego wykroczenia kulturowego. W kwietniu 2012 roku rząd afgański uzyskał zgodę, by przyszłymi nocnymi rajdami dowodziły jednostki afgańskie albo aby przynajmniej prowadzono je za wiedzą i zgodą władz."
+      }
+    },
+    {
+      "card_number": 39,
+      "title": "Trilateral Summit",
+      "icons": "GCTW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku wrogości.",
+          "en": "Shift Islamabad 1 box toward Hostility.",
+          "action_name": "US spurs Pak-Afghan ties"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu. Dodaj 3 do wsparcia i klientelizmu.",
+          "en": "Shift Islamabad 2 boxes toward Sponsorship. Aid +3. Patronage +3.",
+          "action_name": "Double game"
+        }
+      ],
+      "fluff": {
+        "en": "The United States would have much preferred to see stable and productive relations between Afghanistan and Pakistan, its two main recipients of military and economic aid in the region. But Washington’s actual ability to make this so varied.",
+        "pl": "Stany Zjednoczone znacznie bardziej wolałyby stabilne i owocne relacje między Afganistanem a Pakistanem – dwoma głównymi odbiorcami amerykańskiej pomocy wojskowej i gospodarczej w regionie. Rzeczywista zdolność Waszyngtonu do osiągnięcia tego celu była jednak zmienna."
+      }
+    },
+    {
+      "card_number": 40,
+      "title": "Line Item",
+      "icons": "GCWT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Dodaj do zasobów rządu: 15 lub wartość wsparcia jeśli jest niższa niż 15.",
+          "en": "Add the lesser of Aid or +15 to Government Resources.",
+          "action_name": "Congress appropriates"
+        },
+        {
+          "pl": "Odejmij od wsparcia połowę jego wartości (zaokrąglając w dół). Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Cut Aid to half its level (round down). Executing Faction remains Eligible.",
+          "action_name": "Cuts"
+        }
+      ],
+      "fluff": {
+        "en": "To quote Ronald E. Neumann, then United States Ambassador to Afghanistan, in 2005: “Iraq and hurricane relief won, and we lost.”",
+        "pl": "Jak ujął to Ronald E. Neumann, ówczesny ambasador Stanów Zjednoczonych w Afganistanie, w 2005 roku: „Irak i pomoc po huraganach wygrały, a my przegraliśmy”."
+      }
+    },
+    {
+      "card_number": 41,
+      "title": "NATO Politics",
+      "icons": "GCWT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Koalicja może przenieść na obszar dostępnych sił do 3 elementów usuniętych z gry.",
+          "en": "Coalition returns up to 3 pieces that were removed from play to Available.",
+          "action_name": "Alliance commitment"
+        },
+        {
+          "pl": "Usuń z gry 1 kostkę koalicji.",
+          "en": "Remove any 1 Coalition Troops cube from play.",
+          "action_name": "Publics dubious of war aims"
+        }
+      ],
+      "fluff": {
+        "en": "In the early stages of the war, the governments of various NATO countries found it relatively easy politically to send contingents of troops and aid workers to help in reconstruction. As casualties mounted, these governments found it more difficult to explain to citizens what these troops were accomplishing, and why their troops were in harm’s way while other national contingents refused to commit to the struggle. In February 2010, the Dutch Government collapsed over the issue of keeping a contingent of troops in Afghanistan.",
+        "pl": "We wczesnej fazie wojny rządom różnych państw NATO stosunkowo łatwo było politycznie wysyłać do Afganistanu kontyngenty wojskowe i pracowników pomocowych, aby wesprzeć odbudowę. W miarę wzrostu liczby ofiar coraz trudniej było im wyjaśniać obywatelom, co te wojska osiągają i dlaczego ich żołnierze narażają życie, podczas gdy kontyngenty innych państw odmawiają pełnego zaangażowania. W lutym 2010 roku rząd holenderski upadł właśnie z powodu sporu o utrzymanie kontyngentu w Afganistanie."
+      }
+    },
+    {
+      "card_number": 42,
+      "title": "NGOs",
+      "icons": "GCWT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Za każde 10 pkt. wsparcia (zaokrąglając w dół) przesuń kontrolowane przez COIN pola 1 stopień w kierunku poparcia.",
+          "en": "For every 10 Aid (round down) shift a COIN Control space 1 level toward Support.",
+          "action_name": "Stabilization"
+        },
+        {
+          "pl": "Na każde 5 pkt. wsparcia (zaokrąglając w dół) przetransferuj 1 do klientelizmu.",
+          "en": "Transfer 1 in 5 Aid (round down) to Patronage.",
+          "action_name": "Poor auditing"
+        }
+      ],
+      "fluff": {
+        "en": "Non-Governmental Organizations (NGOs) were critical conduits of non-military aid and support to Afghanistan. Not surprisingly, therefore, their workers and projects were targets for the Taliban, acting to drive them out of communities. NGOs also had an uncomfortable relationship with the military, and their best efforts could fall prey to the pervasive government corruption.",
+        "pl": "Organizacje pozarządowe (NGO) były kluczowymi kanałami niemilitarnej pomocy i wsparcia dla Afganistanu. Nic więc dziwnego, że ich pracownicy i projekty stawali się celami Talibanu, który chciał wypchnąć je ze społeczności lokalnych. NGO miały też trudne relacje z wojskiem, a nawet ich najlepsze wysiłki mogły paść ofiarą wszechobecnej korupcji rządowej."
+      }
+    },
+    {
+      "card_number": 43,
+      "title": "Pakistani Offensive",
+      "icons": "GTCW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku wrogości. Usuń dowolne 2 elementy Talibów.",
+          "en": "Shift Islamabad 2 boxes toward Hostility. Remove 2 Taliban pieces from Pakistan.",
+          "action_name": "Militant hunt"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku sponsoringu. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Shift Islamabad 1 box toward Sponsorship. Executing Faction remains Eligible.",
+          "action_name": "All show"
+        }
+      ],
+      "fluff": {
+        "en": "Coalition forces operating near the border with Pakistan were not able to achieve consistent interoperability with the Pakistani Army. However, the Government of Pakistan was acutely aware of the threat posed by so many different insurgent organizations operating from its territory, from Baluchi separatists and the Quetta Shura Taliban to the Pakistani Taliban. It launched a number of offensives into the north-west, sometimes taking heavy casualties.",
+        "pl": "Siły Koalicji działające blisko granicy z Pakistanem nie zdołały osiągnąć trwałej interoperacyjności z pakistańską armią. Rząd Pakistanu dobrze jednak rozumiał zagrożenie stwarzane przez liczne organizacje powstańcze operujące z jego terytorium – od beludżystańskich separatystów i Talibanu Szury z Kwetty po pakistański Taliban. Przeprowadził więc szereg ofensyw na północnym zachodzie, ponosząc niekiedy ciężkie straty."
+      }
+    },
+    {
+      "card_number": 44,
+      "title": "Pakistani Politics",
+      "icons": "GTCW",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku tolerancji. Jeśli żeton znalazł się na polu nacisku: usuń 1 bazę Talibów z Pakistanu. Jeśli żeton znalazł się na polu protekcji: dodaj 6 do zasobów Talibów. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Shift Islamabad 1 box toward Tolerance. Then, if at Pressure, remove 1 Taliban Base from Pakistan. If at Backing, +6 Taliban Resources. Executing Faction remains Eligible.",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "The 2007 Red Mosque Incident (in which religious students occupied a mosque in Islamabad that was then stormed by Pakistani security forces, with considerable casualties) and suspected involvement of the Pakistani Taliban in the assassination that year of Prime Minister Benazir Bhutto were examples of the turbulent relationship between extremist organizations and Pakistan’s politics.",
+        "pl": "Incydent w Czerwonym Meczecie z 2007 roku – gdy studenci religijni zajęli meczet w Islamabadzie, a pakistańskie siły bezpieczeństwa odbiły go szturmem, ponosząc znaczne straty – oraz podejrzenie udziału pakistańskiego Talibanu w zamachu na premier Benazir Bhutto w tym samym roku, były przykładami burzliwej relacji organizacji ekstremistycznych z pakistańską polityką."
+      }
+    },
+    {
+      "card_number": 45,
+      "title": "Tribal Elders",
+      "icons": "GTCW",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do końca następnej propagandy frakcja egzekwująca to wydarzenie, dobierając w momencie zmian poparcia, może przesunąć je do dowolnego poziomu.",
+          "en": "Until end of next Propaganda, the Faction executing this event (mark) may follow any shift it causes in Support/Neutral/Opposition by setting the space to any level.",
+          "action_name": "A voice in local shuras"
+        }
+      ],
+      "fluff": {
+        "en": "The traditional power and decision-making structure of tribal and village elders had been largely dismantled in many areas of Afghanistan by the previous 30 years of violence and social upheaval. Reestablishing this way of doing things would have greatly assisted whichever faction might harness its power.",
+        "pl": "Tradycyjna struktura władzy i podejmowania decyzji przez starszyznę plemienną oraz wiejską została w wielu częściach Afganistanu w dużej mierze rozbita przez trzy dekady przemocy i społecznych wstrząsów. Odtworzenie tego sposobu działania znacznie pomogłoby tej frakcji, która zdołałaby wykorzystać jego siłę."
+      }
+    },
+    {
+      "card_number": 46,
+      "title": "ID Cards",
+      "icons": "GTWC",
+      "additional_info": {
+        "pl": "Zdolność Talibów",
+        "en": "TALIBAN CAPABILITIES"
+      },
+      "actions": [
+        {
+          "pl": "Maszerujące bojówki Talibów muszą być zawsze aktywowane kiedy wchodzą do prowincji niepasztuńskich.",
+          "en": "Marching Taliban always Activate when entering non-Pashtun Provinces.",
+          "action_name": "Your papers, please"
+        },
+        {
+          "pl": "Bojówki Talibów wchodząc na pola pasztuńskie automatycznie ukrywają się.",
+          "en": "Flip all Taliban that March into a Pashtun space Underground.",
+          "action_name": "Kandahar Kinko’s Kopies Kards"
+        }
+      ],
+      "fluff": {
+        "en": "Control of population movement is an important part of many counterinsurgency strategies, and issuing identification cards and local censuses are good ways to accomplish this. But cards can be forged or stolen.",
+        "pl": "Kontrola przemieszczania się ludności jest ważnym elementem wielu strategii przeciwpowstańczych, a wydawanie dokumentów tożsamości i prowadzenie lokalnych spisów ludności to dobre sposoby jej realizacji. Dokumenty można jednak fałszować lub kraść."
+      }
+    },
+    {
+      "card_number": 47,
+      "title": "Loya Jirga",
+      "icons": "GTWC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń 2 neutralne pola niepasztuńskie do poparcia.",
+          "en": "Set 2 Neutral non-Pashtun spaces to Support.",
+          "action_name": "Political alliances shore up national government"
+        },
+        {
+          "pl": "Przesuń 3 neutralne prowincje pasztuńskie do opozycji.",
+          "en": "Set 3 Neutral Pashtun Provinces to Opposition.",
+          "action_name": "Pashtuns fear erosion of dominance"
+        }
+      ],
+      "fluff": {
+        "en": "A Loya Jirga or “grand council” is a traditional Pashtun method of political consultation or discussion of large or especially urgent issues. There have been several Loya Jirga held at the national level under the Karzai Government, to discuss such issues as the new Afghan constitution (2003) or to consider peace negotiations with the Taliban (2009, 2010). The outcomes of these conferences could lead to important political realignments within the Afghan Government.",
+        "pl": "Loya Jirga, czyli „wielka rada”, to tradycyjny pasztuński sposób konsultacji politycznej i debatowania nad ważnymi albo szczególnie pilnymi sprawami. Za rządów Karzaja kilkakrotnie zwoływano Loya Jirga na szczeblu krajowym, między innymi dla omówienia nowej afgańskiej konstytucji w 2003 roku oraz negocjacji pokojowych z Talibanem w latach 2009 i 2010. Wyniki takich zgromadzeń mogły prowadzić do istotnych przetasowań politycznych w afgańskim rządzie."
+      }
+    },
+    {
+      "card_number": 48,
+      "title": "Strategic Partners",
+      "icons": "GTWC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Dodaj: 6 do zasobów rządu, 6 do klientelizmu.",
+          "en": "Aid +6, Govt Resources +6, Patronage +1.",
+          "action_name": "New Delhi help"
+        },
+        {
+          "pl": "Przesuń żeton na torze Islamabadu 2 pola w kierunku sponsoringu.",
+          "en": "Shift Islamabad 2 boxes toward Sponsorship.",
+          "action_name": "Pakistani fears fed"
+        }
+      ],
+      "fluff": {
+        "en": "India was the largest regional donor to Afghanistan during the period and had an interest in the creation and maintenance of a stable regime there, both as a counterweight to Pakistan’s influence and to contain the spread of extremism and terrorism.",
+        "pl": "Indie były w tym okresie największym regionalnym darczyńcą Afganistanu i były zainteresowane utworzeniem oraz utrzymaniem tam stabilnego reżimu – zarówno jako przeciwwagi dla wpływów Pakistanu, jak i w celu ograniczenia rozprzestrzeniania się ekstremizmu i terroryzmu."
+      }
+    },
+    {
+      "card_number": 49,
+      "title": "Crop Substitution",
+      "icons": "GWCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Rząd może przeprowadzić darmową operację likwidacji w 1 prowincji zawierającej kostki rządu. Usuń ze wskazanej prowincji wszystkie elementy watażków.",
+          "en": "Govt free Eradicates in any 1 Province with Govt cubes. Remove all Warlord pieces there.",
+          "action_name": "Slash and burn"
+        },
+        {
+          "pl": "Rząd usuwa 1 bazę watażków. Następnie watażkowie mogą w 3 uprawnionych do tego prowincjach przeprowadzić operację uprawy.",
+          "en": "Govt removes 1 Warlord Base. Warlords then free Cultivate in up to 3 eligible spaces (as if Rallied there).",
+          "action_name": "Diversify"
+        }
+      ],
+      "fluff": {
+        "en": "Eradication of opium crops proved to be effective only on a very temporary basis, and usually worsened the situation of the small farmers who did most of the work of raising poppies. Afghanistan was also the world’s leader in production of hashish, although the amount of land used for cultivation and the amounts of money involved was much smaller.",
+        "pl": "Niszczenie upraw opium okazywało się skuteczne tylko przez krótki czas i zazwyczaj pogarszało położenie drobnych rolników, którzy wykonywali większość pracy przy uprawie maku. Afganistan był także światowym liderem produkcji haszyszu, chociaż areał upraw i związane z nim pieniądze były znacznie mniejsze."
+      }
+    },
+    {
+      "card_number": 50,
+      "title": "Development Aid",
+      "icons": "GWCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Koalicja i rząd mogą przeprowadzić akcję obywatelską tak jak w fazie poparcia (propaganda) wydając wsparcie zamiast zasobów.",
+          "en": "Coalition and Govt conduct Civic Action as if Support Phase, but spending Aid instead of Resources.",
+          "action_name": "Funds to projects"
+        },
+        {
+          "pl": "Dodaj 3 do klientelizmu, następnie watażkowie mogą dodać do zasobów rezultat rzutu kostką.",
+          "en": "+3 Patronage. Warlords add a die roll in Resources.",
+          "action_name": "Local diversion opportunity"
+        }
+      ],
+      "fluff": {
+        "en": "Billions of dollars flowed into Afghanistan from foreign donors to improve the country’s infrastructure and economic function. Thousands of large and small projects were completed, to address all sectors of need in Afghan society, but progress was hampered by pervasive corruption, lack of security to protect completed projects, diversion of funds, and a thriving illegal economy based on narcotics that was far more profitable than any legitimate business.",
+        "pl": "Miliardy dolarów napływały do Afganistanu od zagranicznych darczyńców, aby poprawić infrastrukturę i funkcjonowanie gospodarki kraju. Ukończono tysiące dużych i małych projektów obejmujących wszystkie sektory potrzeb afgańskiego społeczeństwa, lecz postęp hamowały wszechobecna korupcja, brak bezpieczeństwa dla ukończonych przedsięwzięć, defraudacja środków oraz prężna nielegalna gospodarka oparta na narkotykach, znacznie bardziej dochodowa niż legalna działalność."
+      }
+    },
+    {
+      "card_number": 51,
+      "title": "Karzai",
+      "icons": "GWCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Za każde pole z poparciem dodaj 1 do klientelizmu.",
+          "en": "+1 Patronage per space at Support.",
+          "action_name": "President taps cousins"
+        },
+        {
+          "pl": "Przetransferuj wynik rzutu 2 kostkami z klientelizmu do zasobów watażków.",
+          "en": "Transfer 2 die rolls of Patronage to Warlord Resources.",
+          "action_name": "President deals to keep office"
+        }
+      ],
+      "fluff": {
+        "en": "Hamid Karzai, a Pashtun, was appointed President at the Bonn Accords in 2002. He thereafter was elected twice, though the legitimacy of the elections was disputed. The office of President exerted considerable power under Afghanistan’s new Constitution, but this document also required Karzai to give up power in 2014. Like most men who had reached the height of national leadership of Afghanistan, he survived by making deals and brokering relationships among a complex web of family, ethnic, and religious organizations in a continuous and delicate balancing act.",
+        "pl": "Hamid Karzaj, Pasztun, został mianowany prezydentem na mocy porozumień bońskich w 2002 roku. Następnie dwukrotnie wygrywał wybory, choć ich legitymację kwestionowano. Urząd prezydenta miał znaczną władzę na mocy nowej afgańskiej konstytucji, lecz dokument ten nakazywał również Karzajowi ustąpić w 2014 roku. Jak większość ludzi, którzy osiągnęli szczyt krajowego przywództwa w Afganistanie, utrzymywał się u władzy dzięki układom i pośredniczeniu w relacjach między złożoną siecią organizacji rodzinnych, etnicznych i religijnych – w nieustannym, delikatnym balansowaniu."
+      }
+    },
+    {
+      "card_number": 52,
+      "title": "Power Shuffle",
+      "icons": "GWTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Zastąp maksymalnie 5 bojówek watażków kostkami policji.",
+          "en": "Replace up to 5 Warlord Guerrillas with Police.",
+          "action_name": "Kabul respected"
+        },
+        {
+          "pl": "Zastąp maksymalnie 5 kostek policji bojówkami watażków.",
+          "en": "Replace up to 5 Police with Warlord Guerrillas.",
+          "action_name": "Kabul spurned"
+        }
+      ],
+      "fluff": {
+        "en": "See card 51. A major early achievement of Karzai’s presidency was the disarmament and reintegration of many warlord militia forces in 2003-2004.",
+        "pl": "Zobacz kartę 51. Ważnym wczesnym osiągnięciem prezydentury Karzaja było rozbrojenie i reintegracja wielu milicji watażków w latach 2003–2004."
+      }
+    },
+    {
+      "card_number": 53,
+      "title": "Prison Break",
+      "icons": "GWTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Frakcja powstańcza musi przetransferować 3 swoje zasoby do klientelizmu i może w zamian umieścić własny element na polu zawierającym element rządu.",
+          "en": "An Insurgent transfers 3 Resources to Patronage and places a piece where there is a Govt piece.",
+          "action_name": "Guards bought"
+        },
+        {
+          "pl": "Zastąp element rządu bojówką frakcji powstańczej.",
+          "en": "Replace a Government piece with a Guerrilla.",
+          "action_name": "Guards inept"
+        }
+      ],
+      "fluff": {
+        "en": "Coalition analysts agreed that the corrections system in Afghanistan is in need of significant improvement. There was a continued need for better constructed prisons, more and better screened guards, and a restoration of civilian faith that the prison system will be humane, secure, and impartial. This faith was shaken by several mass prison breaks that took place both with and without the connivance of the guards, as well as early releases of criminals who had political influence.",
+        "pl": "Analitycy Koalicji byli zgodni, że system więziennictwa w Afganistanie wymaga istotnej poprawy. Nadal potrzebowano lepiej zbudowanych więzień, większej liczby lepiej sprawdzonych strażników oraz odbudowy zaufania obywateli, że system penitencjarny będzie humanitarny, bezpieczny i bezstronny. Zaufaniem tym wstrząsnęły liczne masowe ucieczki z więzień – zarówno z udziałem strażników, jak i bez ich współudziału – a także przedwczesne zwolnienia przestępców mających polityczne wpływy."
+      }
+    },
+    {
+      "card_number": 54,
+      "title": "Profit Sharing",
+      "icons": "GWTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przetransferuj rezultat rzutu 2 kostkami z zasobów watażków do zasobów rządu.",
+          "en": "Warlords transfer 2 die rolls’ Resources to Government.",
+          "action_name": "Funneled to war effort"
+        },
+        {
+          "pl": "Watażkowie mogą wykonać darmową turę handlu narkotykami wszędzie tam, gdzie to możliwe, ale bez zwiększania poziomu klientelizmu.",
+          "en": "Warlords execute a free round of Traffic everywhere possible but add no Patronage.",
+          "action_name": "…or not"
+        }
+      ],
+      "fluff": {
+        "en": "Profits from illegal and semi-legal activities by warlords did not always benefit the Taliban; occasionally such activities would deliver resources to the central government in exchange for other considerations such as influential offices or a promise of non-interference.",
+        "pl": "Zyski z nielegalnej i półlegalnej działalności watażków nie zawsze trafiały do Talibanu; czasem zasoby z tych działań zasilały rząd centralny w zamian za inne korzyści, takie jak wpływowe stanowiska albo obietnica nieingerowania."
+      }
+    },
+    {
+      "card_number": 55,
+      "title": "Breaktime",
+      "icons": "WCTG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Koalicja może usunąć z mapy liczbę bojówek frakcji powstańczych równą rezultatowi rzutu kostką.",
+          "en": "Coalition removes up to a die roll of Guerrillas.",
+          "action_name": "War-weary fighters vote with their feet"
+        },
+        {
+          "pl": "Usuń z mapy liczbę kostek rządu równą rezultatowi rzutu kostką, nie więcej niż 1 kostkę rządu na wybrane pole.",
+          "en": "Remove up to a die roll of Government cubes, no more than 1 per space.",
+          "action_name": "Troops help with harvest"
+        }
+      ],
+      "fluff": {
+        "en": "The tempo of fighting in Afghanistan is dominated by several climatic and agricultural factors: the cold winter, the harvest season for legitimate crops, and the timing of the poppy harvest. Both Taliban fighters and ANA/ANP troops will take breaks to rest, retrain, and bring in the sheaves.",
+        "pl": "Rytm walk w Afganistanie wyznacza kilka czynników klimatycznych i rolniczych: mroźna zima, sezon zbioru legalnych upraw oraz termin zbioru maku. Zarówno bojownicy Talibanu, jak i żołnierze ANA oraz ANP robią przerwy, by odpocząć, przeszkolić się i zebrać plony."
+      }
+    },
+    {
+      "card_number": 56,
+      "title": "Fratricide",
+      "icons": "WCTG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń 1 bazę i 1 bojówkę watażków z pola zawierającego element Talibów.",
+          "en": "Remove a Warlord Guerrilla and Base from a space with Taliban.",
+          "action_name": "I thought we were buddies"
+        },
+        {
+          "pl": "Usuń z 2 pól zawierających oddziały rządu maksymalnie po 1 kostce koalicji i umieść je na polu ofiar. Jeśli brak sił koalicji usuń bazę.",
+          "en": "At 2 spaces with Govt Troops—1 Coalition Troop or, if none, 1 Coalition Base to Casualties.",
+          "action_name": "Friendly uniforms fire on mentors"
+        }
+      ],
+      "fluff": {
+        "en": "Incidents in which Afghan troops or policemen wounded or killed members of Coalition forces working with them as embedded trainers or advisors increased after 2010. (Brookings Afghanistan Index, passim) While the absolute number of people killed in these incidents was small, and most of the incidents were not the result of Taliban infiltration of the Afghan security forces, each one eroded trust between Coalition and Government forces. (US DoD Report on Progress, p. 68-69). Meanwhile, it was not unknown for Taliban forces in an area to break local truces if they perceived it to be to their advantage.",
+        "pl": "Po 2010 roku wzrosła liczba incydentów, w których afgańscy żołnierze lub policjanci ranili albo zabijali członków sił Koalicji pracujących z nimi jako osadzeni instruktorzy lub doradcy. Choć bezwzględna liczba ofiar była niewielka, a większość tych zdarzeń nie wynikała z infiltracji afgańskich sił bezpieczeństwa przez Taliban, każde z nich podważało zaufanie między siłami Koalicji a wojskami rządowymi. Jednocześnie zdarzało się, że talibskie oddziały w danym rejonie zrywały lokalne rozejmy, jeśli uznawały to za korzystne."
+      }
+    },
+    {
+      "card_number": 57,
+      "title": "Sandstorms",
+      "icons": "WCTG",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do propagandy zabroniony jest transport (rząd) i transport lotniczy (koalicja). Talibowie mogą maszerować nie dalej niż na sąsiednie pole.",
+          "en": "Until Propaganda, no Air Lift or Transport, Taliban March only 1 adjacent space, and Sweep Activates only 1 Guerrilla per 3 cubes (round down). Executing Faction remains Eligible.",
+          "action_name": "Airborne grit"
+        },
+        {
+          "pl": "Podczas przeczyszczania 1 bojówka aktywowana jest na każde 3 kostki frakcji COIN (zaokrąglając w dół). Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "There’s a reason that Coalition troops call Afghanistan “The Sandbox”.",
+        "pl": "Nie bez powodu żołnierze Koalicji nazywali Afganistan „Piaskownicą”."
+      }
+    },
+    {
+      "card_number": 58,
+      "title": "Counter-Narc",
+      "icons": "WCGT",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Do propagandy podziel na pół zyski watażków z przeprowadzonych operacji handlu narkotykami (zaokrąglając w dół).",
+          "en": "Until Propaganda, halve (round down) Resources to Warlords from each Traffic.",
+          "action_name": "Interdicted"
+        },
+        {
+          "pl": "Za każde pole pod kontrolą COIN z 1 elementem watażków przetransferuj 1 zasób rządu do zasobów watażków.",
+          "en": "Transfer 1 Govt Resource to Warlords per COIN Control space with Warlords. +1 Patronage.",
+          "action_name": "Kabul buys crop"
+        }
+      ],
+      "fluff": {
+        "en": "Increased presence of security forces, especially Coalition troops, tended to reduce the amount of opium produced in major growing areas such as Helmand Province. However, troop presence was only a temporary solution, and the process of interdicting and arresting the people responsible for trading opium was susceptible to corruption (US DoD Report on Progress, p. 94-95; CMFC Counter-Narcotics in Afghanistan, p. 26-27, 48-49). In strict dollar terms, it might have been cheaper for the Afghan Government, with support from Coalition nation governments, to simply buy opium from farmers and either destroy it or process it into morphine and other drugs for legitimate medical use, as done in India. The latter measure might even have been profitable. However, these expedients would not address the deeper issue of the narcotics trade, addiction among the civilian population, corruption, and the great distortions that opium production as a cash crop produced in Afghanistan’s largely agricultural economy.",
+        "pl": "Zwiększona obecność sił bezpieczeństwa, zwłaszcza wojsk Koalicji, zwykle ograniczała produkcję opium w głównych regionach upraw, takich jak prowincja Helmand. Obecność wojska była jednak jedynie rozwiązaniem tymczasowym, a przechwytywanie i aresztowanie osób odpowiedzialnych za handel opium było podatne na korupcję. W ścisłym rachunku dolarowym dla afgańskiego rządu – przy wsparciu rządów państw Koalicji – tańsze mogło być po prostu skupowanie opium od rolników i jego niszczenie albo przerabianie na morfinę i inne leki do legalnych zastosowań medycznych, jak w Indiach. Drugie rozwiązanie mogłoby nawet przynosić zysk. Nie rozwiązywałoby jednak głębszego problemu handlu narkotykami, uzależnienia ludności cywilnej, korupcji oraz wielkich zniekształceń powodowanych w przeważająco rolniczej gospodarce Afganistanu przez opium jako uprawę dochodową."
+      }
+    },
+    {
+      "card_number": 59,
+      "title": "Local Truce",
+      "icons": "WCGT",
+      "additional_info": {
+        "pl": "Momentum",
+        "en": "MOMENTUM"
+      },
+      "actions": [
+        {
+          "pl": "Rząd musi przetransferować 6 zasobów do zasobów watażków. Do końca propagandy watażkowie nie mogą przeprowadzać ataków, przekupstw oraz terroru. Rozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Govt transfers 6 Resources to Warlords. No Warlords Attack, Terror, or Suborn until after Propaganda. Executing Faction remains Eligible.",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "Temporary truces were a feature of this and many other insurgencies throughout history. A small amount of pecuniary persuasion can buy a lot of elbow room.",
+        "pl": "Tymczasowe rozejmy były cechą tego i wielu innych powstań na przestrzeni dziejów. Niewielka zachęta finansowa może kupić bardzo dużo swobody działania."
+      }
+    },
+    {
+      "card_number": 60,
+      "title": "Tajiks",
+      "icons": "WCGT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń 2 niepasztuńskie pola 1 stopień w kierunku poparcia.",
+          "en": "Shift 2 non-Pashtun spaces each 1 level toward Support.",
+          "action_name": "Tajiks rally against Taliban threat"
+        },
+        {
+          "pl": "Przetransferuj rezultat rzutu kostką z klientelizmu do zasobów watażków.",
+          "en": "Transfer a die roll of Patronage to Warlords Resources.",
+          "action_name": "Tajiks rally against Pashtun rule"
+        }
+      ],
+      "fluff": {
+        "en": "Tajiks are the second largest ethnic group in Afghanistan, after Pashtuns. They comprise about 30% of the population and are concentrated in the northern and northeastern regions of the country. Tajik fighters dominated the Northern Alliance that resisted the Taliban during the Emirate period (1996-2001), and as such were important figures in the reformation of the Afghan Government. However, Tajik dominance in certain critical areas, such as the ANA officer corps, was later scaled back to a more nationally representative percentage.",
+        "pl": "Tadżycy są drugą po Pasztunach najliczniejszą grupą etniczną Afganistanu. Stanowią około 30% ludności i koncentrują się w północnych oraz północno-wschodnich regionach kraju. Tadżyccy bojownicy dominowali w Sojuszu Północnym, który stawiał opór Talibanowi w okresie Emiratu (1996–2001), dlatego odgrywali ważną rolę w odbudowie afgańskiego rządu. Później jednak tadżycka dominacja w pewnych kluczowych obszarach, takich jak korpus oficerski ANA, została ograniczona do bardziej reprezentatywnego dla całego kraju poziomu."
+      }
+    },
+    {
+      "card_number": 61,
+      "title": "Desertions & Defections",
+      "icons": "WTCG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń z dowolnie wybranych pól do 3 bojówek lub zastąp je bojówkami drugiej frakcji powstańczej. Rozstrzygająca frakcja musi zastąpić 1 zasób swoją bojówkę (koalicja płaci z zasobów rządu).",
+          "en": "Remove up to 3 Guerrillas anywhere or replace them with the other Faction’s Guerrillas. Executing Faction pays 1 Resource per Guerrilla (unless Coalition or at 0).",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "The Taliban combined an unsophisticated and decentralized overall command system with a surprising degree of small-unit cohesion, based on personal loyalty to tactical commanders, who were responsible for units of 5-50 men. However, the Taliban recruited from varied sources, and each recruit had his own reasons for joining and staying with his unit. If these reasons were not fulfilled, he would leave. The same also was true of the many and varied organizations that made up the forces of what were known as Warlords. (Giustozzi, p. 91-93)",
+        "pl": "Taliban łączył nieskomplikowany i zdecentralizowany system dowodzenia z zaskakująco silną spójnością małych pododdziałów, opartą na osobistej lojalności wobec dowódców taktycznych kierujących grupami liczącymi od 5 do 50 ludzi. Jednak rekrutowano ludzi z różnych środowisk, a każdy miał własne powody, by dołączyć i pozostać w swojej grupie. Jeśli powody te przestawały istnieć, odchodził. To samo dotyczyło licznych i zróżnicowanych organizacji składających się na siły określane mianem watażków."
+      }
+    },
+    {
+      "card_number": 62,
+      "title": "Local Understanding",
+      "icons": "WTCG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Talibowie mogą na 1 polu wykonać za darmo atak na elementy COIN. Podczas ataku mogą aktywować ukryte bojówki i użyć ich jako bojówek Talibów.",
+          "en": "In 1 space, Taliban free Attack COIN pieces; Activate and count Warlord Guerrillas as Taliban. Warlords and Taliban each add +3 Resources per Warlord Base under Taliban Control.",
+          "action_name": ""
+        },
+        {
+          "pl": "Talibowie i watażkowie dodają 3 do zasobów za każdą bazę watażków znajdującą się na polu pod kontrolą Talibów.",
+          "en": "",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "In a variant of the “accidental guerrilla” phenomenon, the Taliban often were able to hire “pick-up teams” of young males, paid daily in cash, to join in operations against the Coalition or the Government. The Taliban also had considerable financial resources to offer to former militia or mujahideen commanders to join the insurgency.",
+        "pl": "W odmianie zjawiska „przypadkowego partyzanta” Taliban często potrafił wynajmować „doraźne drużyny” młodych mężczyzn, opłacanych codziennie gotówką, by uczestniczyli w działaniach przeciw Koalicji lub rządowi. Taliban dysponował też znacznymi środkami finansowymi, którymi mógł skłaniać dawnych dowódców milicji lub mudżahedinów do przyłączenia się do rebelii."
+      }
+    },
+    {
+      "card_number": 63,
+      "title": "Teetotalers",
+      "icons": "WTCG",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń bazę watażków z każdego pola kontrolowanego przez Talibów. Talibowie muszą zapłacić za każdą bazę 1 zasób.",
+          "en": "Remove 1 Warlord Base from each Taliban Control space, –1 Taliban Resource each.",
+          "action_name": "Strictly Koran"
+        },
+        {
+          "pl": "Watażkowie na każdym polu zawierającym ich element mogą zapłacić 1 zasób za każdą bojówkę Talibów i usunąć ją z mapy.",
+          "en": "Each space with Warlord pieces, Warlords may pay –1 Resource per Taliban Guerrilla to remove any of them.",
+          "action_name": "Lighten up, man"
+        }
+      ],
+      "fluff": {
+        "en": "During the period of the Taliban Government, opium production was discouraged, and indeed was almost completely shut down in 2001. (CMFC, Counter-Narcotics in Afghanistan, p. 13) After the “re-launch” of the Taliban insurgency in 2003-04, opium production reached higher and higher levels. While the Taliban found participating in the process profitable (about 10% of the entire value of the opiates trade ended up in Taliban hands, estimates of the value varying between 70 and 400 million dollars a year: CMFC, Counter-Narcotics in Afghanistan, p. 44-45), they might again have decided that narcotics were a social ill with too high a social price (for example, there are an estimated 1.5 million opium addicts in Afghanistan, about 5% of the population).",
+        "pl": "W okresie rządów Talibanu produkcję opium zniechęcano, a w 2001 roku niemal całkowicie ją wstrzymano. Po „ponownym uruchomieniu” talibskiej rebelii w latach 2003–2004 produkcja opium rosła jednak coraz bardziej. Choć udział w tym procederze był dla Talibanu dochodowy – szacowano, że trafiało do niego około 10% całkowitej wartości handlu opiatami, czyli od 70 do 400 milionów dolarów rocznie – mógł on ponownie uznać narkotyki za społeczne zło o zbyt wysokiej cenie. W Afganistanie szacowano na przykład około 1,5 miliona uzależnionych od opium, czyli około 5% ludności."
+      }
+    },
+    {
+      "card_number": 64,
+      "title": "Hazara",
+      "icons": "WTGC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "W każdym z 2 niepasztuńskich i górskich pól, jeśli występują elementy Talibów, przesuń poparcie do opozycji. Następnie jeśli elementy watażków przewyższają w nich elementy rządu, usuń 2 elementy rządu lub Talibów. Natomiast jeśli elementy rządu przewyższają w nich elementy watażków, usuń 2 elementy watażków.",
+          "en": "In each of 2 nonPashtun Mountain spaces— If Taliban present, set to Opposition. Then, if Warlord pieces exceed Govt, remove 2 Govt or Taliban pieces. If Govt exceeds Warlords, remove 2 Warlord pieces.",
+          "action_name": "Ethnic cleansing"
+        }
+      ],
+      "fluff": {
+        "en": "The Hazara are Shia Muslims and compose about 9% of the population. (The great majority of Afghans are Sunni.) Historically they have been threatened and discriminated against by the other ethnic groups, particularly the Pashtuns, and have received few benefits from associating with the Government. (Afghanistan Smart Book) Across the border, in Quetta, Hazaras responded to extremist attacks with plans to organize for self defense, and persecuted Hazaras in central Afghanistan might have done the same.",
+        "pl": "Hazarowie są szyickimi muzułmanami i stanowią około 9% ludności. Zdecydowana większość Afgańczyków to sunnici. Historycznie Hazarowie byli zagrożeni i dyskryminowani przez inne grupy etniczne, szczególnie Pasztunów, a współpraca z rządem przynosiła im niewiele korzyści. Po drugiej stronie granicy, w Kwecie, Hazarowie odpowiadali na ataki ekstremistów planami samoobrony, a prześladowani Hazarowie w środkowym Afganistanie mogli uczynić podobnie."
+      }
+    },
+    {
+      "card_number": 65,
+      "title": "Islamabad Blocks Resupply",
+      "icons": "WTGC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Sabotuj obie drogi przyległe do Pakistanu. Talibowie muszą odjąć 7 zasobów. Rząd i koalicja podczas następnej karty będą frakcjami nieuprawnionymi. Rozstrzygająca frakcja (jeśli powstańcza) pozostaje uprawniona.",
+          "en": "COIN effort, Taliban taxes both hurt: Sabotage both Roads adjacent to Pakistan. -7 Taliban Resources. Coalition and Govt Ineligible through next card. Executing Faction, if Insurgent, remains Eligible.",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "In retaliation for incidents where Pakistani soldiers manning border posts were killed in accidental exchanges of fire with Coalition troops, the Pakistani Government twice shut down the two main routes for Coalition supplies to reach landlocked Afghanistan from Pakistani seaports: once in 2010 for a week, and once in 2011-12 for almost nine months. The Coalition was forced to fly supplies in or use the Northern Delivery System of minor roads entering from the “Three ‘Stans”. This expedient was extremely expensive, but it did sidestep the network of Taliban “taxation” and raids on supply convoys along the southern routes.",
+        "pl": "W odwecie za incydenty, w których pakistańscy żołnierze obsadzający posterunki graniczne ginęli w przypadkowej wymianie ognia z wojskami Koalicji, rząd Pakistanu dwukrotnie zamknął dwa główne szlaki zaopatrzenia Koalicji do śródlądowego Afganistanu z pakistańskich portów morskich: raz na tydzień w 2010 roku, a drugi raz na niemal dziewięć miesięcy w latach 2011–2012. Koalicja musiała transportować zaopatrzenie drogą powietrzną albo korzystać z Północnego Systemu Dostaw – drugorzędnych dróg biegnących przez „trzy stany”. Było to niezwykle kosztowne, lecz pozwalało ominąć talibską sieć „opodatkowania” i napadów na konwoje zaopatrzeniowe na południowych szlakach."
+      }
+    },
+    {
+      "card_number": 66,
+      "title": "Mountain Fastness",
+      "icons": "WTGC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Jeśli wskazana frakcja nie posiada baz w 2 wybranych polach górskich, wszystkie jej elementy przesuń stamtąd na obszar dostępnych sił.",
+          "en": "Move a Faction’s pieces from 2 Mountains where it has no Bases to Available.",
+          "action_name": "Altitude sickness"
+        },
+        {
+          "pl": "Na górskich polach umieść 2 dowolne elementy frakcji powstańczych i ukryj wybrane bojówki.",
+          "en": "In a Mountain, place any 2 Insurgent pieces and flip any Guerrillas desired Underground.",
+          "action_name": "Caves"
+        }
+      ],
+      "fluff": {
+        "en": "Afghanistan is a high country, about half of it covered by mountains. In the east, the peaks of the Hindu Kush range rise to over 7,000 meters. Kabul itself is 1,800 meters above sea level. This simple fact of geography helped determine how, when, and where fighting took place: the insurgents could always withdraw to the mountains but could not remain there for long.",
+        "pl": "Afganistan jest krajem wysokogórskim, którego około połowę pokrywają góry. Na wschodzie szczyty Hindukuszu wznoszą się ponad 7000 metrów, a sam Kabul leży 1800 metrów nad poziomem morza. Ten prosty fakt geograficzny w znacznym stopniu określał jak, kiedy i gdzie toczyły się walki: powstańcy zawsze mogli wycofać się w góry, lecz nie byli w stanie długo tam pozostawać."
+      }
+    },
+    {
+      "card_number": 67,
+      "title": "Change in Tactics",
+      "icons": "WGCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń 1 zdolność dowolnej frakcji z gry. Efekty jej oddziaływania na pozostałe frakcje przestają obowiązywać.",
+          "en": "Remove any 1 Capabilities marker that is in effect (shaded or unshaded). That Capability no longer applies.",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "Measures and countermeasures are an enduring aspect of insurgency, and so not all tactical or technical innovations maintain their battlefield impact for long.",
+        "pl": "Środki i przeciwdziałania są trwałym elementem każdej rebelii, dlatego nie wszystkie innowacje taktyczne i techniczne zachowują swój wpływ na pole walki przez długi czas."
+      }
+    },
+    {
+      "card_number": 68,
+      "title": "Dostum",
+      "icons": "WGCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń wskaźnik poparcia w kierunku neutralności na 2 polach z poparciem oraz 2 polach w opozycji. Wybrane pola nie mogą być pasztuńskie.",
+          "en": "Uzbek warlord returns from exile: 2 Support and 2 Opposition nonPashtun spaces to Neutral. Replace 3 Govt or 3 Warlord pieces in non-Pashtun spaces with any pieces of the other.",
+          "action_name": ""
+        },
+        {
+          "pl": "Dodatkowo na polach niepasztuńskich zastąp 3 dowolne elementy rządu elementami watażków lub na odwrót.",
+          "en": "",
+          "action_name": ""
+        }
+      ],
+      "fluff": {
+        "en": "Abdul Rashid Dostum, an Uzbek, had been a military commander in Afghanistan’s wars since the 1970s, fighting first against the mujahideen and then the Taliban. For a short time he was the Deputy Minister of Defense in Hamid Karzai’s Government, but clashed with him and went into exile in Turkey. In 2009, he returned to Afghanistan and established a near-independent, Uzbek-dominated zone in northern Afghanistan.",
+        "pl": "Abdul Raszid Dostum, Uzbek, był dowódcą wojskowym w afgańskich wojnach od lat siedemdziesiątych: najpierw walczył przeciw mudżahedinom, a później przeciw Talibanowi. Przez krótki czas pełnił funkcję wiceministra obrony w rządzie Hamida Karzaja, lecz popadł z nim w konflikt i udał się na wygnanie do Turcji. W 2009 roku wrócił do Afganistanu i stworzył na północy kraju niemal niezależną strefę zdominowaną przez Uzbeków."
+      }
+    },
+    {
+      "card_number": 69,
+      "title": "Mine Removal",
+      "icons": "WGCT",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Zastąp maksymalnie do 4 żetonów sabotażu dowolnymi kostkami rządu.",
+          "en": "Replace any 4 Sabotage with any 1 Government cube each.",
+          "action_name": "ANA specialists"
+        },
+        {
+          "pl": "Wybierz prowincję pod kontrolą COIN nie o populacji od 1 do 3 i przesuń jej wskaźnik do poparcia, a następnie umieść w niej bazę watażków.",
+          "en": "Set a 1-3Pop Province with COIN Control to Support and place a Warlord Base there.",
+          "action_name": "Fields cleared"
+        }
+      ],
+      "fluff": {
+        "en": "Thirty years of unrelenting warfare have left millions of mines and pieces of unexploded ordnance in Afghanistan’s soil. Clearing routes and areas to make them safe for civilian use again would be viewed positively.",
+        "pl": "Trzydzieści lat nieustannej wojny pozostawiło w afgańskiej ziemi miliony min i niewybuchów. Oczyszczenie szlaków oraz terenów, by znów były bezpieczne dla cywilów, zostałoby odebrane pozytywnie."
+      }
+    },
+    {
+      "card_number": 70,
+      "title": "Contractor Surge",
+      "icons": "WGTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń tor poparcia w 3 polach zawierających elementy koalicji oraz rządu 1 stopień w kierunku poparcia. Dodaj za każde przesunięcie: 1 do klientelizmu, 1 do zasobów Talibów i 1 do zasobów watażków.",
+          "en": "Shift up to 3 spaces with Coalition and Govt pieces 1 level toward Support. Add +1 Patronage, +1 Taliban Resource, and +1 Warlord Resource per shift.",
+          "action_name": "Everyone gets a slice"
+        }
+      ],
+      "fluff": {
+        "en": "Wide use of private contractors, especially private security companies employing local nationals, has been a hallmark of both the Iraq and Afghanistan counterinsurgencies. A case could be made that, while the behavior of these companies might be effective in solving immediate problems, it might in the long term work against the counterinsurgents’ interests. For example, it was found that millions of dollars, paid to private trucking and security companies to run supply convoys to Coalition bases, ended up in the hands of the Taliban as a result of side deals by the warlords who ran the companies.",
+        "pl": "Szerokie wykorzystanie prywatnych kontraktorów, zwłaszcza prywatnych firm ochroniarskich zatrudniających miejscowych, było znakiem rozpoznawczym działań przeciwpowstańczych zarówno w Iraku, jak i Afganistanie. Można argumentować, że choć zachowanie tych firm mogło skutecznie rozwiązywać doraźne problemy, w dłuższej perspektywie działało przeciw interesom sił przeciwpowstańczych. Stwierdzono na przykład, że miliony dolarów płacone prywatnym firmom transportowym i ochroniarskim za prowadzenie konwojów do baz Koalicji trafiały ostatecznie do Talibanu wskutek układów zawieranych przez watażków kierujących tymi firmami."
+      }
+    },
+    {
+      "card_number": 71,
+      "title": "Coup!",
+      "icons": "WGTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Przesuń tor poparcia w 3 polach pasztuńskich lub 3 polach niepasztuńskich o 1 stopień w kierunku poparcia. Przeprowadź fazę dezercji i rozmieszczenia sił rządowych jak podczas propagandy, a następnie zweryfikuj kontrolę nad polami.",
+          "en": "Shift either 3 Pashtun or 3 non-Pashtun Provinces each 1 level toward Support. Govt Forces Desert; Govt Troops Redeploy; then adjust Control.",
+          "action_name": "New Pashtun or ex-Northern Alliance leader"
+        }
+      ],
+      "fluff": {
+        "en": "No coup d’etat occurred to change Afghanistan’s Government during the period, though coups did depose Afghan governments in 1973 and 1978. A move by an ambitious subordinate at the proper time could be a potent game-changer.",
+        "pl": "W omawianym okresie żaden zamach stanu nie zmienił rządu Afganistanu, choć przewroty obalały afgańskie rządy w 1973 i 1978 roku. Ruch ambitnego podwładnego wykonany w odpowiednim momencie mógłby radykalnie odmienić sytuację."
+      }
+    },
+    {
+      "card_number": 72,
+      "title": "Poppy Crop Failure",
+      "icons": "WGTC",
+      "additional_info": {
+        "pl": "",
+        "en": ""
+      },
+      "actions": [
+        {
+          "pl": "Usuń z mapy na obszar dostępnych sił 1 od z każdej bazy watażków. Następnie policz każdą bojówkę z frakcji powstańczych może sobie dodać 1 zasób za każdą bojówkę znajdującą się na polach z bazą watażków.",
+          "en": "Remove 1 Taliban or 2 Warlord Bases.",
+          "action_name": "Output plummets"
+        },
+        {
+          "action_name": "Prices soar",
+          "pl": "",
+          "en": "Remove 1 Warlord piece. Then Insurgents each add +1 Resource per their Guerrilla at Warlord Bases."
+        }
+      ],
+      "fluff": {
+        "en": "While the amounts of money involved in the opium trade are spectacular (over $2 billion annually), prices are highly volatile and crops can easily fail. Sometimes a major failure would hurt small farmers but enabled big dealers who had built up stocks to raise their profits as prices responded to the limited overall supply.",
+        "pl": "Choć kwoty związane z handlem opium są spektakularne – ponad 2 miliardy dolarów rocznie – ceny są bardzo niestabilne, a uprawy mogą łatwo zawieść. Poważny nieurodzaj czasem uderzał w drobnych rolników, ale pozwalał wielkim handlarzom, którzy zgromadzili zapasy, zwiększać zyski wraz ze wzrostem cen wywołanym ograniczoną podażą."
+      }
+    }
+  ],
+  "merge_metadata": {
+    "english_csv": "adp_cards_en.csv",
+    "csv_encoding_detected": "cp1250",
+    "csv_delimiter": ";",
+    "csv_title_and_icons_authoritative": true
+  }
+}

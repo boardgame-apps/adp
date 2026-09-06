@@ -237,8 +237,8 @@
       "title": "Partnering Policy",
       "icons": "CGWT",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
@@ -247,8 +247,8 @@
           "action_name": "Close knit"
         },
         {
-          "pl": "Do propagandy koalicja nie może prowadzić operacji przy użyciu zasobów rządu.",
-          "en": "Until Propaganda, no Coalition Operations that would spend Govt Resources.",
+          "pl": "Do propagandy koalicja nie może prowadzić operacji przy użyciu zasobów rządu.\nMOMENTUM",
+          "en": "Until Propaganda, no Coalition Operations that would spend Govt Resources.\nMOMENTUM",
           "action_name": "Unraveled"
         }
       ],
@@ -262,19 +262,14 @@
       "title": "Strategic Release",
       "icons": "CGWT",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do propagandy rzuć kostką za każde pole wybrane do przeprowadzenia szturmu. Wynik 1-4: zamień każdy usunięty element na dowolną kostkę rządu. Wynik 5-6: usunięte bojówki rozmieść na cele z bazą ich właściciela. Rozstrzygająca frakcja pozostaje uprawniona.",
-          "en": "Until Propaganda, each Assault rolls a die for each space.",
-          "action_name": "Executing Faction remains Eligible"
-        },
-        {
-          "action_name": "1-4 Detainees turned",
-          "pl": "",
-          "en": "Replace each piece removed with a Govt cube. 5-6 Recidivism: Removed Guerrillas move to owner’s Base if possible."
+          "pl": "Do propagandy rzuć kostką za każde pole wybrane do przeprowadzenia szturmu.\n\nWynik 1-4: zamień każdy usunięty element na dowolną kostkę rządu.\nWynik 5-6: usunięte bojówki rozmieść na cele z bazą ich właściciela. Rozstrzygająca frakcja pozostaje uprawniona.\nMOMENTUM",
+          "en": "Executing Faction remains Eligible. Until Propaganda, each Assault rolls a die for each space.\n\n1-4 Detainees turned: Replace each piece removed with a Govt cube.\n5-6 Recidivism: Removed Guerrillas move to owner’s Base if possible.\nMOMENTUM",
+          "action_name": ""
         }
       ],
       "fluff": {
@@ -312,13 +307,13 @@
       "title": "Anti-Corruption Drive",
       "icons": "CWTG",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do propagandy rząd nie może dokonywać transferu klientelizmu.",
-          "en": "Until Prop, Govern transfers no Patronage.",
+          "pl": "Do propagandy rząd nie może dokonywać transferu klientelizmu.\nMOMENTUM",
+          "en": "Until Prop, Govern transfers no Patronage.\nMOMENTUM",
           "action_name": "“We mean it this time”"
         },
         {
@@ -412,8 +407,8 @@
       "title": "NATO",
       "icons": "CWGT",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
@@ -422,8 +417,8 @@
           "action_name": "ISAF bolstered"
         },
         {
-          "pl": "Do propagandy operacje koalicji, transport lotniczy i wzmocnienie dozwolone są na polach zawierających elementy koalicji.",
-          "en": "Until Prop, Coalition Ops, Air Lift, Surge only where already Coalition.",
+          "pl": "Do propagandy operacje koalicji, transport lotniczy i wzmocnienie dozwolone są na polach zawierających elementy koalicji.\nMOMENTUM",
+          "en": "Until Prop, Coalition Ops, Air Lift, Surge only where already Coalition.\nMOMENTUM",
           "action_name": "Command strictures"
         }
       ],
@@ -587,18 +582,18 @@
       "title": "US-Taliban Talks",
       "icons": "TCWG",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do propagandy operacje Talibów nie mogą usuwać elementów koalicji.",
-          "en": "Until Propaganda, Taliban Operations may not remove Coalition pieces (mark).",
+          "pl": "Do propagandy operacje Talibów nie mogą usuwać elementów koalicji.\nMOMENTUM",
+          "en": "Until Propaganda, Taliban Operations may not remove Coalition pieces (mark).\nMOMENTUM",
           "action_name": "Selective fire"
         },
         {
-          "pl": "Do propagandy koalicja nie może przeprowadzać szturmów.",
-          "en": "Until Propaganda, no Coalition Assault (mark).",
+          "pl": "Do propagandy koalicja nie może przeprowadzać szturmów.\nMOMENTUM",
+          "en": "Until Propaganda, no Coalition Assault (mark).\nMOMENTUM",
           "action_name": "No sudden moves"
         }
       ],
@@ -637,8 +632,8 @@
       "title": "MANPADS Scare",
       "icons": "TGCW",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
@@ -647,8 +642,8 @@
           "action_name": "False alarm—fly the friendly skies"
         },
         {
-          "pl": "Do propagandy Talibowie mogą anulować dowolny transport lotniczy lub nalot za cenę 1 zasobu.",
-          "en": "Until Prop, Taliban may cancel (count as executed) any Air Lift or Air Strike for –1 Resource.",
+          "pl": "Do propagandy Talibowie mogą anulować dowolny transport lotniczy lub nalot za cenę 1 zasobu.\nMOMENTUM",
+          "en": "Until Prop, Taliban may cancel (count as executed) any Air Lift or Air Strike for –1 Resource.\nMOMENTUM",
           "action_name": "Whoosh!"
         }
       ],
@@ -887,8 +882,8 @@
       "title": "Mullah Omar",
       "icons": "TWGC",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
@@ -897,8 +892,8 @@
           "action_name": "Taliban leader killed"
         },
         {
-          "pl": "W następnej fazie poparcia, szariat dozwolony jest także w prowincjach niekontrolowanych przez Talibów, ale zawierających dowolny ich element.",
-          "en": "Next Support phase, Sharia also allowed if Uncontrolled and any Taliban.",
+          "pl": "W następnej fazie poparcia, szariat dozwolony jest także w prowincjach niekontrolowanych przez Talibów, ale zawierających dowolny ich element.\nMOMENTUM",
+          "en": "Next Support phase, Sharia also allowed if Uncontrolled and any Taliban.\nMOMENTUM",
           "action_name": "Islamist unifier"
         }
       ],
@@ -1092,8 +1087,8 @@
       },
       "actions": [
         {
-          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku tolerancji. Jeśli żeton znalazł się na polu nacisku: usuń 1 bazę Talibów z Pakistanu. Jeśli żeton znalazł się na polu protekcji: dodaj 6 do zasobów Talibów. Rozstrzygająca frakcja pozostaje uprawniona.",
-          "en": "Shift Islamabad 1 box toward Tolerance. Then, if at Pressure, remove 1 Taliban Base from Pakistan. If at Backing, +6 Taliban Resources. Executing Faction remains Eligible.",
+          "pl": "Przesuń żeton na torze Islamabadu 1 pole w kierunku tolerancji.\nJeśli żeton znalazł się na polu nacisku: usuń 1 bazę Talibów z Pakistanu. Jeśli żeton znalazł się na polu protekcji: dodaj 6 do zasobów Talibów.\nRozstrzygająca frakcja pozostaje uprawniona.",
+          "en": "Shift Islamabad 1 box toward Tolerance.\nThen, if at Pressure, remove 1 Taliban Base from Pakistan. If at Backing, +6 Taliban Resources.\nExecuting Faction remains Eligible.",
           "action_name": ""
         }
       ],
@@ -1107,13 +1102,13 @@
       "title": "Tribal Elders",
       "icons": "GTCW",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do końca następnej propagandy frakcja egzekwująca to wydarzenie, dobierając w momencie zmian poparcia, może przesunąć je do dowolnego poziomu.",
-          "en": "Until end of next Propaganda, the Faction executing this event (mark) may follow any shift it causes in Support/Neutral/Opposition by setting the space to any level.",
+          "pl": "Do końca następnej propagandy frakcja egzekwująca to wydarzenie, dobierając w momencie zmian poparcia, może przesunąć je do dowolnego poziomu.\nMOMENTUM",
+          "en": "Until end of next Propaganda, the Faction executing this event (mark) may follow any shift it causes in Support/Neutral/Opposition by setting the space to any level.\nMOMENTUM",
           "action_name": "A voice in local shuras"
         }
       ],
@@ -1402,19 +1397,14 @@
       "title": "Sandstorms",
       "icons": "WCTG",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do propagandy zabroniony jest transport (rząd) i transport lotniczy (koalicja). Talibowie mogą maszerować nie dalej niż na sąsiednie pole.",
-          "en": "Until Propaganda, no Air Lift or Transport, Taliban March only 1 adjacent space, and Sweep Activates only 1 Guerrilla per 3 cubes (round down). Executing Faction remains Eligible.",
+          "pl": "Do propagandy zabroniony jest transport (rząd) i transport lotniczy (koalicja). Talibowie mogą maszerować nie dalej niż na sąsiednie pole. Podczas przeczyszczania 1 bojówka aktywowana jest na każde 3 kostki frakcji COIN (zaokrąglając w dół).\nRozstrzygająca frakcja pozostaje uprawniona.\nMOMENTUM",
+          "en": "Until Propaganda, no Air Lift or Transport, Taliban March only 1 adjacent space, and Sweep Activates only 1 Guerrilla per 3 cubes (round down).\nExecuting Faction remains Eligible.\nMOMENTUM",
           "action_name": "Airborne grit"
-        },
-        {
-          "pl": "Podczas przeczyszczania 1 bojówka aktywowana jest na każde 3 kostki frakcji COIN (zaokrąglając w dół). Rozstrzygająca frakcja pozostaje uprawniona.",
-          "en": "",
-          "action_name": ""
         }
       ],
       "fluff": {
@@ -1427,13 +1417,13 @@
       "title": "Counter-Narc",
       "icons": "WCGT",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Do propagandy podziel na pół zyski watażków z przeprowadzonych operacji handlu narkotykami (zaokrąglając w dół).",
-          "en": "Until Propaganda, halve (round down) Resources to Warlords from each Traffic.",
+          "pl": "Do propagandy podziel na pół zyski watażków z przeprowadzonych operacji handlu narkotykami (zaokrąglając w dół).\nMOMENTUM",
+          "en": "Until Propaganda, halve (round down) Resources to Warlords from each Traffic.\nMOMENTUM",
           "action_name": "Interdicted"
         },
         {
@@ -1452,13 +1442,13 @@
       "title": "Local Truce",
       "icons": "WCGT",
       "additional_info": {
-        "pl": "Momentum",
-        "en": "MOMENTUM"
+        "pl": "",
+        "en": ""
       },
       "actions": [
         {
-          "pl": "Rząd musi przetransferować 6 zasobów do zasobów watażków. Do końca propagandy watażkowie nie mogą przeprowadzać ataków, przekupstw oraz terroru. Rozstrzygająca frakcja pozostaje uprawniona.",
-          "en": "Govt transfers 6 Resources to Warlords. No Warlords Attack, Terror, or Suborn until after Propaganda. Executing Faction remains Eligible.",
+          "pl": "Rząd musi przetransferować 6 zasobów do zasobów watażków. Do końca propagandy watażkowie nie mogą przeprowadzać ataków, przekupstw oraz terroru. Rozstrzygająca frakcja pozostaje uprawniona.\nMOMENTUM",
+          "en": "Govt transfers 6 Resources to Warlords. No Warlords Attack, Terror, or Suborn until after Propaganda. Executing Faction remains Eligible.\nMOMENTUM",
           "action_name": ""
         }
       ],
@@ -1593,8 +1583,8 @@
       "actions": [
         {
           "pl": "Sabotuj obie drogi przyległe do Pakistanu. Talibowie muszą odjąć 7 zasobów. Rząd i koalicja podczas następnej karty będą frakcjami nieuprawnionymi. Rozstrzygająca frakcja (jeśli powstańcza) pozostaje uprawniona.",
-          "en": "COIN effort, Taliban taxes both hurt: Sabotage both Roads adjacent to Pakistan. -7 Taliban Resources. Coalition and Govt Ineligible through next card. Executing Faction, if Insurgent, remains Eligible.",
-          "action_name": ""
+          "en": "Sabotage both Roads adjacent to Pakistan. -7 Taliban Resources. Coalition and Govt Ineligible through next card. Executing Faction, if Insurgent, remains Eligible.",
+          "action_name": "COIN effort, Taliban taxes both hurt:"
         }
       ],
       "fluff": {

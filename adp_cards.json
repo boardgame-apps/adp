@@ -1513,12 +1513,12 @@
       "actions": [
         {
           "pl": "Talibowie mogą na 1 polu wykonać za darmo atak na elementy COIN. Podczas ataku mogą aktywować ukryte bojówki i użyć ich jako bojówek Talibów.",
-          "en": "In 1 space, Taliban free Attack COIN pieces; Activate and count Warlord Guerrillas as Taliban. Warlords and Taliban each add +3 Resources per Warlord Base under Taliban Control.",
+          "en": "In 1 space, Taliban free Attack COIN pieces; Activate and count Warlord Guerrillas as Taliban.",
           "action_name": ""
         },
         {
           "pl": "Talibowie i watażkowie dodają 3 do zasobów za każdą bazę watażków znajdującą się na polu pod kontrolą Talibów.",
-          "en": "",
+          "en": "Warlords and Taliban each add +3 Resources per Warlord Base under Taliban Control.",
           "action_name": ""
         }
       ],
